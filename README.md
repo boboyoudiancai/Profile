@@ -4,17 +4,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,30,31&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 <!-- Dynamic introduction -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=32&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=700&height=100&lines=👋+Hi%2C+I'm+王博+(Wang+Bo);🎓+AI+Researcher+%40+Tongji+University;💻+Building+Intelligent+Systems;🚀+Multimodal+AI+%26+Full-Stack+Engineer" alt="Dynamic Text"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=80&lines=👋+Hi%2C+I'm+王博+(Wang+Bo);🎓+CS+Student+%40+Tongji+University;📚+Learning+AI+%26+Software+Development;🌱+Growing+as+a+Developer" alt="Dynamic Text"/>
 
 <br/>
 
-**🌟 Available for Collaboration** • **📍 Shanghai, China** • **🎓 CS Junior at Tongji University**
+**🌱 Open to Learning** • **📍 Shanghai, China** • **🎓 CS Junior at Tongji University**
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## 👨‍🎓 About Me
 
 <table>
 <tr>
@@ -22,16 +22,16 @@
 
 **🎓 Education**  
 **同济大学 (Tongji University)**  
-Computer Science & Technology | Junior Year
+Computer Science & Technology | Junior Year (大三)
 
-**🔬 Research Interests**
-- 🤖 **Multimodal Large Language Models** - Bridging vision, language, and reasoning
-- 📊 **Graph Data Mining & Analysis** - Uncovering patterns in complex networks  
-- 🧠 **Deep Learning & Machine Intelligence** - Building smarter AI systems
-- ⚡ **Full-Stack Development** - Creating end-to-end solutions
+**🌱 Learning Areas & Interests**
+- 🤖 **Multimodal AI** - Exploring how AI can understand multiple data types
+- 📊 **Graph Data Analysis** - Studying patterns and relationships in data  
+- 🧠 **Machine Learning** - Building foundational knowledge in AI
+- 💻 **Full-Stack Development** - Learning both frontend and backend
 
-**🎯 Current Focus**  
-Building AI systems that bridge theory and real-world impact
+**🎯 Current Goal**  
+Bridging academic knowledge with practical applications
 
 **📫 Contact**  
 📧 2351563@tongji.edu.cn  
@@ -46,22 +46,23 @@ Building AI systems that bridge theory and real-world impact
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technologies I'm Learning
 
 <div align="center">
 
 ### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI Core"/>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI Learning"/>
+<img src="https://img.shields.io/badge/Learning-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
+<img src="https://img.shields.io/badge/Exploring-OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 
 ### 💻 Programming & Development
 <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,express" alt="Web Development"/>
-<img src="https://skillicons.dev/icons?i=java,cpp,rust,go" alt="System Programming"/>
+<img src="https://skillicons.dev/icons?i=java,cpp" alt="System Programming"/>
 
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,gcp" alt="Infrastructure"/>
+### 🗄️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,docker" alt="Tools"/>
+
+</div>
 
 </div>
 
@@ -86,56 +87,56 @@ Building AI systems that bridge theory and real-world impact
 
 ---
 
-## 🏆 Achievements & Experience
+## 🏆 Academic Progress
 
 <div align="center">
 
-### 🎓 Academic Achievements
+### 🎓 Academic Recognition
 **🏆 [填写奖学金名称]** - [年份] | **🥇 [填写竞赛获奖]** - [具体奖项] | **📚 GPA: [填写GPA]/4.0**
 
-### 💼 Professional Experience
-**🚀 [填写实习公司]** - [职位] ([时间段])  
-**🏢 [填写项目经历]** - [角色描述]  
-**👥 [填写团队项目]** - [贡献说明]
+### 💼 Learning Experience
+**🚀 [填写实习公司]** - [职位] ([时间段]) - *Learning industry practices*  
+**🏢 [填写项目经历]** - [角色描述] - *Hands-on project experience*  
+**👥 [填写团队项目]** - [贡献说明] - *Collaborative learning*
 
-### 🔬 Research & Projects
-**📑 [填写研究经历或论文]**  
-**💡 Open Source Contributions** - Actively contributing to AI/ML community
+### 🔬 Academic Projects
+**📑 [填写研究经历或论文]** - *Research exploration*  
+**💡 Course Projects** - Building foundational skills through coursework
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Learning Projects
 
 ### 🤖 AI & Machine Learning Projects
 
-**🔬 Multimodal AI Research System**
+**🔬 Multimodal AI Learning Project**
 - **Description**: [填写具体项目描述或研究方向]
 - **Tech Stack**: PyTorch, Transformers, OpenCV, Python
-- **Status**: 🟢 Active Development
+- **Status**: 🟡 Learning & Experimenting
 
-**📊 Graph Neural Network for Data Mining**  
+**📊 Graph Data Analysis Study**  
 - **Description**: [填写图神经网络相关项目]
-- **Tech Stack**: DGL, NetworkX, Matplotlib, PyTorch
-- **Status**: 🟢 Research Phase
+- **Tech Stack**: NetworkX, Matplotlib, PyTorch
+- **Status**: 🟡 Course Project
 
-**🧠 Deep Learning Applications**
+**🧠 Machine Learning Fundamentals**
 - **Description**: [填写深度学习项目实例]  
-- **Tech Stack**: TensorFlow, Keras, OpenCV, Python
-- **Status**: 🟡 In Progress
+- **Tech Stack**: TensorFlow, scikit-learn, Python
+- **Status**: 🟡 Building Knowledge
 
-### 💻 Full-Stack Development Projects
+### 💻 Development Projects
 
-**🌐 Intelligent Web Platform**
+**🌐 Web Development Practice**
 - **Description**: [填写Web项目描述]
-- **Tech Stack**: React, Node.js, MongoDB, Docker
-- **Status**: 🟢 Production Ready
+- **Tech Stack**: React, Node.js, MongoDB
+- **Status**: 🟡 Learning Project
 
-**⚡ Real-time Data Processing System**
-- **Description**: [填写实时系统项目]
-- **Tech Stack**: WebSocket, Redis, Express, React
-- **Status**: 🟢 Active
+**⚡ Algorithm & Data Structure Practice**
+- **Description**: [填写算法练习项目]
+- **Tech Stack**: Java, Python, C++
+- **Status**: 🟢 Continuous Practice
 
 ---
 
@@ -161,8 +162,8 @@ Building AI systems that bridge theory and real-world impact
 
 <br/><br/>
 
-### 💭 Vision
-**"Building bridges between artificial intelligence and human creativity"**
+### 💭 Learning Philosophy
+**"Every day is a new opportunity to learn and grow in the field of technology"**
 
 <br/>
 
@@ -176,6 +177,6 @@ Building AI systems that bridge theory and real-world impact
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,30,31&height=80&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=64748B&center=true&vCenter=true&width=600&height=25&lines=⭐+Star+my+repositories+if+you+find+them+useful;🤝+Always+open+to+collaboration+opportunities;💡+Let's+build+the+future+together!" alt="Footer Text"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=64748B&center=true&vCenter=true&width=600&height=25&lines=⭐+Star+my+repositories+if+you+find+them+helpful;🤝+Always+eager+to+learn+and+collaborate;💡+Let's+learn+and+grow+together!" alt="Footer Text"/>
 
 </div>
