@@ -210,6 +210,11 @@ University Debate Team Member
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!-- 备用贪吃蛇动画 -->
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<br/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&height=30&lines=⭐+Star+if+interesting;🤝+Open+to+collaborate;💡+Let's+build+together;🐍+Snake+ate+my+contributions!" alt="Footer"/>
 
 </div>
