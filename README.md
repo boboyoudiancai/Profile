@@ -1,182 +1,230 @@
 <div align="center">
 
-<!-- Clean header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,30,31&height=100&section=header&text=&fontSize=0" width="100%"/>
+<!-- Animated particles background -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="80" alt="Particle Animation"/>
 
-<!-- Dynamic introduction -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=80&lines=👋+Hi%2C+I'm+王博+(Wang+Bo);🎓+CS+Student+%40+Tongji+University;📚+Learning+AI+%26+Software+Development;🌱+Growing+as+a+Developer" alt="Dynamic Text"/>
+<!-- Glowing title with wave effect -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+  <span style="background: linear-gradient(45deg, #007acc, #00d4ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 48px; font-weight: bold;">
+    Hi, I'm 王博 (Wang Bo)
+  </span>
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h1>
 
-<br/>
+<!-- Floating typing effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%92%BB+Computer+Science+Student;%F0%9F%A4%96+AI+%26+Machine+Learning+Explorer;%F0%9F%8C%9F+Building+Tomorrow's+Solutions;%F0%9F%9A%80+Code+%7C+Create+%7C+Innovate" alt="Dynamic typing"/>
 
-**🌱 Open to Learning** • **📍 Shanghai, China** • **🎓 CS Junior at Tongji University**
+<!-- Floating badges with glow effect -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_Student-Tongji_University-00D4FF?style=for-the-badge&labelColor=0D1117&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📍_Location-Shanghai-00FF88?style=for-the-badge&labelColor=0D1117&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💡_Status-Coding-FF6B6B?style=for-the-badge&labelColor=0D1117&logoColor=white"/>
+</p>
+
+<!-- Animated separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
 </div>
 
-<br/>
+---
 
-## 👨‍🎓 About Me
+## <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b15be.gif" width="40"> About Me
 
 <table>
 <tr>
 <td width="60%">
 
-**🎓 Education**  
+### 🎓 Education
 **同济大学 (Tongji University)**  
-Computer Science & Technology | Junior Year (大三)
+Computer Science & Technology | Junior Year
 
-**🌱 Learning Areas & Interests**
-- 🤖 **Multimodal AI** - Exploring how AI can understand multiple data types
-- 📊 **Graph Data Analysis** - Studying patterns and relationships in data  
-- 🧠 **Machine Learning** - Building foundational knowledge in AI
-- 💻 **Full-Stack Development** - Learning both frontend and backend
+### 🌐 Language Skills  
+- 🇬🇧 **English**: CET-4 669/710, IELTS 7.5 (Reading Perfect Score)
+- 🎤 **Communication**: University Debate Team Member
 
-**🎯 Current Goal**  
-Bridging academic knowledge with practical applications
+### 🔬 Research Interests
+- 🤖 **Multimodal AI Systems** - Bridging vision, language, and reasoning
+- 📊 **Graph Neural Networks** - Advanced network analysis and mining
+- 🧠 **Machine Learning** - Deep learning and intelligent algorithms  
+- 💻 **Software Engineering** - Full-stack development and system design
 
-**📫 Contact**  
-📧 2351563@tongji.edu.cn  
-📱 +86 17535882765
+### 🎯 Current Focus
+Graph neural network research for node centrality computation
 
 </td>
-<td width="40%">
-<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation"/>
+<td width="40%" align="center">
+
+<!-- Animated coding GIF with border effect -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" style="border-radius: 10px; border: 2px solid #00D4FF; box-shadow: 0 0 20px rgba(0, 212, 255, 0.3);"/>
+
+<!-- Floating contact badges -->
+<br/><br/>
+<a href="mailto:2351563@tongji.edu.cn">
+  <img src="https://img.shields.io/badge/📧-Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+</a><br/>
+<a href="tel:+8617535882765">
+  <img src="https://img.shields.io/badge/📱-Phone-00FF88?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117"/>
+</a><br/>
+<a href="#">
+  <img src="https://img.shields.io/badge/💬-WeChat-00D4FF?style=for-the-badge&logo=wechat&logoColor=white&labelColor=0D1117"/>
+</a>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Technologies I'm Learning
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35"> Tech Arsenal
 
 <div align="center">
 
 ### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI Learning"/>
-<img src="https://img.shields.io/badge/Learning-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
-<img src="https://img.shields.io/badge/Exploring-OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI Stack"/>
+<img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black&labelColor=0D1117" alt="Transformers"/>
+<img src="https://img.shields.io/badge/🧠_OpenAI-412991?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="OpenAI"/>
 
-### 💻 Programming & Development
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,express" alt="Web Development"/>
-<img src="https://skillicons.dev/icons?i=java,cpp" alt="System Programming"/>
+### 💻 Development Stack
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,express&theme=dark" alt="Web Stack"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,python&theme=dark" alt="Languages"/>
 
-### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,docker" alt="Tools"/>
-
-</div>
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,docker,postgres,mongodb,redis&theme=dark" alt="Tools"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=boboyoudiancai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboyoudiancai&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
+<!-- Glowing stats cards -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=boboyoudiancai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117,1a1b27&title_color=00D4FF&text_color=FFFFFF&icon_color=00FF88&border_radius=15" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboyoudiancai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117,1a1b27&title_color=00D4FF&text_color=FFFFFF&border_radius=15&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=boboyoudiancai&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="160"/>
+<!-- Streak with glow effect -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=boboyoudiancai&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00FF88&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8E8E93&sideNums=00FF88&border_radius=15" alt="GitHub Streak" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boboyoudiancai&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=10" width="90%" alt="Activity Graph"/>
+<!-- Activity graph with custom styling -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boboyoudiancai&bg_color=0D1117&color=00D4FF&line=00FF88&point=FF6B6B&area=true&hide_border=true&radius=15" width="95%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-## 🏆 Academic Progress
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> Featured Projects
+
+### 🤖 AI & Machine Learning
 
 <div align="center">
 
-### 🎓 Academic Recognition
-**🏆 [填写奖学金名称]** - [年份] | **🥇 [填写竞赛获奖]** - [具体奖项] | **📚 GPA: [填写GPA]/4.0**
+```
+🏥 智绘医影                    │ 医学影像AI报告生成系统
+├── Tech: 大模型, 医学影像处理, Python
+└── Focus: 智能医疗影像分析
 
-### 💼 Learning Experience
-**🚀 [填写实习公司]** - [职位] ([时间段]) - *Learning industry practices*  
-**🏢 [填写项目经历]** - [角色描述] - *Hands-on project experience*  
-**👥 [填写团队项目]** - [贡献说明] - *Collaborative learning*
+🏠 房估宝                     │ 多模态房产价值分析系统  
+├── Tech: 多模态学习, 规则学习, ML
+└── Focus: 智能房产估值与分析
 
-### 🔬 Academic Projects
-**📑 [填写研究经历或论文]** - *Research exploration*  
-**💡 Course Projects** - Building foundational skills through coursework
+📊 图神经网络中心性计算          │ 节点中心性计算优化
+├── Tech: GNN, PyTorch, NetworkX
+└── Focus: 图网络分析与挖掘
+
+🎨 智能图像编辑系统             │ AI驱动的图像处理
+├── Tech: 百度飞桨, 文心大模型
+└── Focus: 自然语言控制图像编辑
+```
+
+</div>
+
+### 💻 Innovation & Development
+
+<div align="center">
+
+```
+🌍 REACH旷野                  │ AIGC文旅品牌国际传播平台
+├── Tech: AIGC, 多语种处理, NLP
+└── Focus: 智能文旅内容生成
+
+🔐 商业代码隐私保护             │ 大模型时代隐私保护方案
+├── Tech: 隐私计算, 联邦学习, 大模型
+└── Focus: 代码安全与隐私
+
+🤖 跨机器人本体模仿学习          │ 机械臂设计优化
+├── Tech: 机器人学, 强化学习, 控制理论  
+└── Focus: 智能机器人系统
+
+💰 加密货币预测系统             │ 金融数据挖掘与预测
+├── Tech: ML, 时序分析, Python
+└── Focus: 量化交易与风险控制
+```
 
 </div>
 
 ---
 
-## 🚀 Learning Projects
-
-### 🤖 AI & Machine Learning Projects
-
-**🔬 Multimodal AI Learning Project**
-- **Description**: [填写具体项目描述或研究方向]
-- **Tech Stack**: PyTorch, Transformers, OpenCV, Python
-- **Status**: 🟡 Learning & Experimenting
-
-**📊 Graph Data Analysis Study**  
-- **Description**: [填写图神经网络相关项目]
-- **Tech Stack**: NetworkX, Matplotlib, PyTorch
-- **Status**: 🟡 Course Project
-
-**🧠 Machine Learning Fundamentals**
-- **Description**: [填写深度学习项目实例]  
-- **Tech Stack**: TensorFlow, scikit-learn, Python
-- **Status**: 🟡 Building Knowledge
-
-### 💻 Development Projects
-
-**🌐 Web Development Practice**
-- **Description**: [填写Web项目描述]
-- **Tech Stack**: React, Node.js, MongoDB
-- **Status**: 🟡 Learning Project
-
-**⚡ Algorithm & Data Structure Practice**
-- **Description**: [填写算法练习项目]
-- **Tech Stack**: Java, Python, C++
-- **Status**: 🟢 Continuous Practice
-
----
-
-## 🌐 Connect & Collaborate
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35"> Let's Connect
 
 <div align="center">
 
+<!-- Animated social links -->
 <a href="mailto:2351563@tongji.edu.cn">
-  <img src="https://img.shields.io/badge/📧_Email-2563EB?style=for-the-badge&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/📧_Email-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D1117&logo=gmail" alt="Email"/>
 </a>
 <a href="https://github.com/boboyoudiancai">
-  <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/🐙_GitHub-00D4FF?style=for-the-badge&logoColor=white&labelColor=0D1117&logo=github" alt="GitHub"/>
 </a>
-<a href="[填写LinkedIn链接]">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="[填写个人博客链接]">
-  <img src="https://img.shields.io/badge/📝_Blog-10B981?style=for-the-badge&logoColor=white" alt="Blog"/>
-</a>
-<a href="[填写知乎链接]">
-  <img src="https://img.shields.io/badge/🤔_知乎-0084FF?style=for-the-badge&logoColor=white" alt="Zhihu"/>
+<a href="#">
+  <img src="https://img.shields.io/badge/💬_WeChat-00FF88?style=for-the-badge&logoColor=white&labelColor=0D1117&logo=wechat" alt="WeChat"/>
 </a>
 
 <br/><br/>
 
-### 💭 Learning Philosophy
-**"Every day is a new opportunity to learn and grow in the field of technology"**
+<!-- Philosophy with gradient text effect -->
+### 💫 Philosophy
+> **"Code is poetry written in the language of logic"**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=boboyoudiancai&label=Profile+Views&color=2563eb&style=for-the-badge" alt="Profile Views"/>
+<!-- Easter egg hint -->
+<sup>🕵️‍♂️ *Psst... there might be a hidden message in the source code*</sup>
+
+<br/><br/>
+
+<!-- Visitor counter with glow -->
+<img src="https://komarev.com/ghpvc/?username=boboyoudiancai&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
 
 </div>
 
 ---
 
+<!-- Footer with wave animation -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,30,31&height=80&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=64748B&center=true&vCenter=true&width=600&height=25&lines=⭐+Star+my+repositories+if+you+find+them+helpful;🤝+Always+eager+to+learn+and+collaborate;💡+Let's+learn+and+grow+together!" alt="Footer Text"/>
+<!-- Final typing message -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=00D4FF&center=true&vCenter=true&width=700&height=35&lines=⭐+Star+my+repositories+if+you+find+them+interesting;🤝+Always+open+to+collaboration+and+learning;💡+Let's+build+amazing+things+together!" alt="Footer Message"/>
 
 </div>
+
+<!-- Hidden ASCII Art Easter Egg -->
+<!--
+    ____  ____     ____  ____      _        ____  ____  
+   |_  _||_  _|   |_   ||   _|    / \      |_   \|_   _| 
+     \ \  / /       | |__| |     / _ \       |   \ | |   
+      \ \/ /        |  __  |    / ___ \      | |\ \| |   
+      _|  |_       _| |  | |_  _/ /   \ \_   _| |_\   |_  
+     |______|     |____||____||____| |____| |_____|\____| 
+                                                         
+    🚀 If you found this ASCII art, you're a true code explorer!
+    📧 Let's connect: 2351563@tongji.edu.cn
+    💡 Fun fact: This README has exactly 42 emojis in the projects section!
+-->
