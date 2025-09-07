@@ -1,190 +1,172 @@
 <div align="center">
 
-<!-- Subtle gradient header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,30,31&height=120&section=header&text=&fontSize=0" width="100%"/>
+<!-- Clean header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,30,31&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<!-- Clean typing effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&height=80&lines=👋+Hi%2C+I'm+王博+(Wang+Bo);🎓+AI+Researcher+%40+Tongji;💻+Building+Intelligent+Systems;🚀+Full-Stack+%26+ML+Engineer" alt="Dynamic Text"/>
+<!-- Dynamic introduction -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=32&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=700&height=100&lines=👋+Hi%2C+I'm+王博+(Wang+Bo);🎓+AI+Researcher+%40+Tongji+University;💻+Building+Intelligent+Systems;🚀+Multimodal+AI+%26+Full-Stack+Engineer" alt="Dynamic Text"/>
 
 <br/>
 
-<!-- Modern status badges -->
-<img src="https://img.shields.io/badge/🌟-Available_for_Collaboration-2563EB?style=flat-square&labelColor=1e293b" alt="Status"/>
-<img src="https://img.shields.io/badge/📍-Shanghai%2C_China-10B981?style=flat-square&labelColor=1e293b" alt="Location"/>
-<img src="https://img.shields.io/badge/💼-CS_Junior-8B5CF6?style=flat-square&labelColor=1e293b" alt="Role"/>
+**🌟 Available for Collaboration** • **📍 Shanghai, China** • **🎓 CS Junior at Tongji University**
 
 </div>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="35" /> About Me
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding"/>
-
-```typescript
-interface Developer {
-  name: string;
-  education: {
-    university: "同济大学 (Tongji University)";
-    major: "Computer Science & Technology";
-    year: "Junior (大三)";
-    location: "Shanghai, China";
-  };
-  
-  interests: string[];
-  currentFocus: string;
-  contact: {
-    email: string;
-    phone: string;
-  };
-}
-
-const wangBo: Developer = {
-  name: "王博 (Wang Bo)",
-  education: {
-    university: "同济大学 (Tongji University)",
-    major: "Computer Science & Technology", 
-    year: "Junior (大三)",
-    location: "Shanghai, China"
-  },
-  interests: [
-    "🤖 Multimodal Large Language Models",
-    "📊 Graph Data Mining & Analysis",
-    "🧠 Machine Learning & Deep Learning",
-    "⚡ Full-Stack Development"
-  ],
-  currentFocus: "Building AI systems that bridge theory and real-world impact",
-  contact: {
-    email: "2351563@tongji.edu.cn",
-    phone: "+86 17535882765"
-  }
-};
-```
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Tech" width="30"/> Tech Stack
-
-<div align="center">
-
-### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI Skills"/>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-
-### 💻 Programming & Development
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,express&theme=dark" alt="Frontend & Backend"/>
-
-### 🛠️ Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,docker,postgres,mongodb,redis,aws&theme=dark" alt="Tools"/>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30"/> GitHub Statistics
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=boboyoudiancai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=8"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboyoudiancai&layout=compact&theme=tokyonight&hide_border=true&border_radius=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=boboyoudiancai&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="400"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boboyoudiancai&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=8" width="88%" alt="Activity Graph"/>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Achievement" width="30"/> Achievements & Experience
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-### 🎓 Academic
-- 🏆 **[填写奖学金名称]** - [年份]
-- 🥇 **[填写竞赛获奖]** - [具体奖项]
-- 📚 **GPA**: [填写GPA]/4.0
-- 🔬 **Research**: [填写研究经历]
+**🎓 Education**  
+**同济大学 (Tongji University)**  
+Computer Science & Technology | Junior Year
+
+**🔬 Research Interests**
+- 🤖 **Multimodal Large Language Models** - Bridging vision, language, and reasoning
+- 📊 **Graph Data Mining & Analysis** - Uncovering patterns in complex networks  
+- 🧠 **Deep Learning & Machine Intelligence** - Building smarter AI systems
+- ⚡ **Full-Stack Development** - Creating end-to-end solutions
+
+**🎯 Current Focus**  
+Building AI systems that bridge theory and real-world impact
+
+**📫 Contact**  
+📧 2351563@tongji.edu.cn  
+📱 +86 17535882765
 
 </td>
-<td width="50%">
-
-### 💼 Professional
-- 🚀 **[填写实习公司]** - [职位]
-- 🏢 **[填写项目经历]** - [角色]
-- 👥 **[填写团队项目]** - [贡献]
-- 💡 **Open Source Contributor**
-
+<td width="40%">
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation"/>
 </td>
 </tr>
 </table>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Projects" width="30"/> Featured Projects
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
 ### 🤖 AI & Machine Learning
-```
-🔬 Multimodal AI Research     │ Status: Active
-├── Description: [填写具体项目描述]
-└── Tech: PyTorch, Transformers, Python
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI Core"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
 
-📊 Graph Neural Networks      │ Status: Active  
-├── Description: [填写图神经网络项目]
-└── Tech: DGL, NetworkX, Matplotlib
+### 💻 Programming & Development
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,express" alt="Web Development"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,rust,go" alt="System Programming"/>
 
-💡 Deep Learning Applications │ Status: Development
-├── Description: [填写深度学习项目]
-└── Tech: TensorFlow, Keras, OpenCV
-```
-
-### 💻 Full-Stack Projects
-```
-🌐 Web Applications          │ Status: Production
-├── Description: [填写Web项目描述]
-└── Tech: React, Node.js, MongoDB
-
-⚡ Real-time Systems         │ Status: Active
-├── Description: [填写实时系统项目]
-└── Tech: WebSocket, Redis, Docker
-```
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,gcp" alt="Infrastructure"/>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Connect" width="30"/> Connect With Me
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=boboyoudiancai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboyoudiancai&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=boboyoudiancai&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boboyoudiancai&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=10" width="90%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Experience
+
+<div align="center">
+
+### 🎓 Academic Achievements
+**🏆 [填写奖学金名称]** - [年份] | **🥇 [填写竞赛获奖]** - [具体奖项] | **📚 GPA: [填写GPA]/4.0**
+
+### 💼 Professional Experience
+**🚀 [填写实习公司]** - [职位] ([时间段])  
+**🏢 [填写项目经历]** - [角色描述]  
+**👥 [填写团队项目]** - [贡献说明]
+
+### 🔬 Research & Projects
+**📑 [填写研究经历或论文]**  
+**💡 Open Source Contributions** - Actively contributing to AI/ML community
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI & Machine Learning Projects
+
+**🔬 Multimodal AI Research System**
+- **Description**: [填写具体项目描述或研究方向]
+- **Tech Stack**: PyTorch, Transformers, OpenCV, Python
+- **Status**: 🟢 Active Development
+
+**📊 Graph Neural Network for Data Mining**  
+- **Description**: [填写图神经网络相关项目]
+- **Tech Stack**: DGL, NetworkX, Matplotlib, PyTorch
+- **Status**: 🟢 Research Phase
+
+**🧠 Deep Learning Applications**
+- **Description**: [填写深度学习项目实例]  
+- **Tech Stack**: TensorFlow, Keras, OpenCV, Python
+- **Status**: 🟡 In Progress
+
+### 💻 Full-Stack Development Projects
+
+**🌐 Intelligent Web Platform**
+- **Description**: [填写Web项目描述]
+- **Tech Stack**: React, Node.js, MongoDB, Docker
+- **Status**: 🟢 Production Ready
+
+**⚡ Real-time Data Processing System**
+- **Description**: [填写实时系统项目]
+- **Tech Stack**: WebSocket, Redis, Express, React
+- **Status**: 🟢 Active
+
+---
+
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
 <a href="mailto:2351563@tongji.edu.cn">
-  <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/📧_Email-2563EB?style=for-the-badge&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/boboyoudiancai">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logoColor=white" alt="GitHub"/>
 </a>
 <a href="[填写LinkedIn链接]">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="[填写个人博客链接]">
-  <img src="https://img.shields.io/badge/Blog-10B981?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+  <img src="https://img.shields.io/badge/📝_Blog-10B981?style=for-the-badge&logoColor=white" alt="Blog"/>
+</a>
+<a href="[填写知乎链接]">
+  <img src="https://img.shields.io/badge/🤔_知乎-0084FF?style=for-the-badge&logoColor=white" alt="Zhihu"/>
 </a>
 
 <br/><br/>
 
-### 💭 Philosophy
-*"Building bridges between artificial intelligence and human creativity"*
+### 💭 Vision
+**"Building bridges between artificial intelligence and human creativity"**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=boboyoudiancai&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=boboyoudiancai&label=Profile+Views&color=2563eb&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -192,8 +174,8 @@ const wangBo: Developer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,30,31&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,30,31&height=80&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=64748B&center=true&vCenter=true&width=500&height=30&lines=⭐+Star+my+repositories+if+you+find+them+useful;🤝+Always+open+to+collaboration+and+learning;💡+Let's+build+the+future+together!" alt="Footer Text"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=64748B&center=true&vCenter=true&width=600&height=25&lines=⭐+Star+my+repositories+if+you+find+them+useful;🤝+Always+open+to+collaboration+opportunities;💡+Let's+build+the+future+together!" alt="Footer Text"/>
 
 </div>
