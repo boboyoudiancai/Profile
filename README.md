@@ -1,8 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm 王博 (Wang Bo)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&duration=4000&pause=1000&color=007AFF&center=true&vCenter=true&width=600&height=60&lines=Computer+Science+Student+%40+Tongji;AI+%26+Multimodal+Enthusiast;Full-Stack+Developer;Graph+Data+Mining+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=007AFF&center=true&vCenter=true&width=800&height=70&lines=👋+Hi%2C+I'm+王博+(Wang+Bo);🎓+Tongji+University+CS+Student;🤖+AI+%26+Multimodal+Enthusiast;💻+Full-Stack+Developer;📊+Graph+Data+Mining+Researcher" alt="Typing SVG" />
 
 <br/>
 
