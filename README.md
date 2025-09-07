@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Particle Animation"/>
 
 <!-- Dynamic typing title including name -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=34&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=👋+Hi%2C+我是王博+(Wang+Bo);💻+Computer+Science+Student;🤖+AI+%26+Machine+Learning;🌟+Building+Tomorrow's+Tech;🚀+Code+%7C+Create+%7C+Innovate" alt="Dynamic Title"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=36&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=220&lines=👋+Hi%2C+我是王博+(Wang+Bo);+;💻+Computer+Science+Student;+;🤖+AI+%26+Machine+Learning;+;🌟+Building+Tomorrow's+Tech;+;🚀+Code+%7C+Create+%7C+Innovate" alt="Dynamic Title"/>
 
 <!-- Clean status badges -->
 <p style="line-height: 2;">
