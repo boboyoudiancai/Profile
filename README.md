@@ -3,15 +3,25 @@
 <!-- Animated particles background with proper ratio -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Particle Animation"/>
 
-<!-- Dynamic typing title including name -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=36&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=220&lines=👋+Hi%2C+我是王博+(Wang+Bo);+;💻+Computer+Science+Student;+;🤖+AI+%26+Machine+Learning;+;🌟+Building+Tomorrow's+Tech;+;🚀+Code+%7C+Create+%7C+Innovate" alt="Dynamic Title"/>
+<br/>
 
-<!-- Clean status badges -->
-<p style="line-height: 2;">
-  <img src="https://img.shields.io/badge/🎓-Tongji_University-00D4FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/📍-Shanghai-00FF88?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/💡-CS_Student-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
-</p>
+<!-- Dynamic typing title with premium styling -->
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=42&duration=2200&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=280&lines=👋+Hi%2C+我是王博+(Wang+Bo);+;💻+Computer+Science+Student;+;🤖+AI+%26+Machine+Learning;+;🌟+Building+Tomorrow's+Tech;+;🚀+Code+%7C+Create+%7C+Innovate" alt="Dynamic Title"/>
+
+<br/>
+
+<!-- Premium floating badges with gradient backgrounds -->
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 12px 24px; border-radius: 25px; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3); backdrop-filter: blur(10px);">
+    <span style="color: white; font-weight: 600; font-size: 14px;">🎓 Tongji University</span>
+  </div>
+  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 12px 24px; border-radius: 25px; box-shadow: 0 8px 32px rgba(240, 147, 251, 0.3); backdrop-filter: blur(10px);">
+    <span style="color: white; font-weight: 600; font-size: 14px;">📍 Shanghai</span>
+  </div>
+  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 12px 24px; border-radius: 25px; box-shadow: 0 8px 32px rgba(79, 172, 254, 0.3); backdrop-filter: blur(10px);">
+    <span style="color: white; font-weight: 600; font-size: 14px;">💡 CS Student</span>
+  </div>
+</div>
 
 </div>
 
