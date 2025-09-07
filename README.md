@@ -6,15 +6,15 @@
 <br/>
 
 <!-- Dynamic typing title with premium styling -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&duration=2000&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=280&lines=👋+Hi%2C+我是王博+(Wang+Bo);+;💻+Computer+Science+Student;+;🤖+AI+%26+Machine+Learning+Explorer;+;🌟+Building+Tomorrow's+Technology;+;🚀+Code+%7C+Create+%7C+Innovate" alt="Dynamic Title"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=2000&pause=800&color=2563EB&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=280&lines=👋+Hi%2C+我是王博+(Wang+Bo);+;💻+Computer+Science+Student;+;🤖+AI+%26+Machine+Learning+Explorer;+;🌟+Building+Tomorrow's+Technology;+;🚀+Code+%7C+Create+%7C+Innovate" alt="Dynamic Title"/>
 
 <br/>
 
 <!-- Premium floating badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Tongji_University-667eea?style=for-the-badge&logoColor=white&labelColor=764ba2"/>
-  <img src="https://img.shields.io/badge/📍_Shanghai-f093fb?style=for-the-badge&logoColor=white&labelColor=f5576c"/>
-  <img src="https://img.shields.io/badge/💡_CS_Student-4facfe?style=for-the-badge&logoColor=white&labelColor=00f2fe"/>
+  <img src="https://img.shields.io/badge/🎓_Tongji_University-2563EB?style=for-the-badge&logoColor=white&labelColor=1e40af"/>
+  <img src="https://img.shields.io/badge/📍_Shanghai-059669?style=for-the-badge&logoColor=white&labelColor=047857"/>
+  <img src="https://img.shields.io/badge/💡_CS_Student-dc2626?style=for-the-badge&logoColor=white&labelColor=b91c1c"/>
 </p>
 
 </div>
