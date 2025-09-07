@@ -111,40 +111,29 @@ University Debate Team Member
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" style="padding: 10px;">
-  <div style="border: 2px solid #00D4FF; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #0D1117 0%, #1a1b27 100%);">
-    <h4>🏥 Intelligent Medical Image Report Generation System</h4>
-    <p><strong>ZhiHui YiYing</strong> - AI-powered medical imaging analysis</p>
-    <p><code>Large Models</code> <code>Medical Imaging</code> <code>Python</code></p>
-  </div>
-</td>
-<td width="50%" style="padding: 10px;">
-  <div style="border: 2px solid #00FF88; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #0D1117 0%, #1a1b27 100%);">
-    <h4>🏠 Multimodal Real Estate Value Analysis System</h4>
-    <p><strong>FangGuBao</strong> - Smart property valuation platform</p>
-    <p><code>Multimodal Learning</code> <code>Rule Learning</code> <code>ML</code></p>
-  </div>
-</td>
-</tr>
-<tr>
-<td width="50%" style="padding: 10px;">
-  <div style="border: 2px solid #FF6B6B; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #0D1117 0%, #1a1b27 100%);">
-    <h4>📊 Graph Neural Network Centrality Computation</h4>
-    <p><strong>GNN Research</strong> - Node centrality optimization</p>
-    <p><code>Graph Neural Networks</code> <code>PyTorch</code> <code>NetworkX</code></p>
-  </div>
-</td>
-<td width="50%" style="padding: 10px;">
-  <div style="border: 2px solid #FFD21E; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #0D1117 0%, #1a1b27 100%);">
-    <h4>🎨 AI-Driven Image Editing System</h4>
-    <p><strong>You Only Need to Ask</strong> - Natural language image editing</p>
-    <p><code>PaddlePaddle</code> <code>ERNIE Model</code> <code>Image Processing</code></p>
-  </div>
-</td>
-</tr>
-</table>
+<div style="margin: 15px 0; padding: 20px; border-left: 4px solid #00D4FF; background: linear-gradient(90deg, rgba(0, 212, 255, 0.1) 0%, rgba(13, 17, 23, 0.8) 50%); border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 212, 255, 0.15);">
+<h3 style="color: #00D4FF; margin: 0 0 10px 0;">🏥 Intelligent Medical Image Report Generation System</h3>
+<p style="color: #8B949E; margin: 5px 0;"><strong>ZhiHui YiYing</strong> - AI-powered medical imaging analysis and automated report generation</p>
+<p style="margin: 10px 0 0 0;"><code style="background: rgba(0, 212, 255, 0.2); padding: 4px 8px; border-radius: 4px; color: #00D4FF;">Large Models</code> <code style="background: rgba(0, 212, 255, 0.2); padding: 4px 8px; border-radius: 4px; color: #00D4FF;">Medical Imaging</code> <code style="background: rgba(0, 212, 255, 0.2); padding: 4px 8px; border-radius: 4px; color: #00D4FF;">Python</code></p>
+</div>
+
+<div style="margin: 15px 0; padding: 20px; border-left: 4px solid #00FF88; background: linear-gradient(90deg, rgba(0, 255, 136, 0.1) 0%, rgba(13, 17, 23, 0.8) 50%); border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 255, 136, 0.15);">
+<h3 style="color: #00FF88; margin: 0 0 10px 0;">🏠 Multimodal Real Estate Value Analysis System</h3>
+<p style="color: #8B949E; margin: 5px 0;"><strong>FangGuBao</strong> - Smart property valuation platform using multimodal learning</p>
+<p style="margin: 10px 0 0 0;"><code style="background: rgba(0, 255, 136, 0.2); padding: 4px 8px; border-radius: 4px; color: #00FF88;">Multimodal Learning</code> <code style="background: rgba(0, 255, 136, 0.2); padding: 4px 8px; border-radius: 4px; color: #00FF88;">Rule Learning</code> <code style="background: rgba(0, 255, 136, 0.2); padding: 4px 8px; border-radius: 4px; color: #00FF88;">Machine Learning</code></p>
+</div>
+
+<div style="margin: 15px 0; padding: 20px; border-left: 4px solid #FF6B6B; background: linear-gradient(90deg, rgba(255, 107, 107, 0.1) 0%, rgba(13, 17, 23, 0.8) 50%); border-radius: 8px; box-shadow: 0 4px 12px rgba(255, 107, 107, 0.15);">
+<h3 style="color: #FF6B6B; margin: 0 0 10px 0;">📊 Graph Neural Network Centrality Computation</h3>
+<p style="color: #8B949E; margin: 5px 0;"><strong>GNN Research</strong> - Advanced node centrality optimization and graph analysis</p>
+<p style="margin: 10px 0 0 0;"><code style="background: rgba(255, 107, 107, 0.2); padding: 4px 8px; border-radius: 4px; color: #FF6B6B;">Graph Neural Networks</code> <code style="background: rgba(255, 107, 107, 0.2); padding: 4px 8px; border-radius: 4px; color: #FF6B6B;">PyTorch</code> <code style="background: rgba(255, 107, 107, 0.2); padding: 4px 8px; border-radius: 4px; color: #FF6B6B;">NetworkX</code></p>
+</div>
+
+<div style="margin: 15px 0; padding: 20px; border-left: 4px solid #FFD21E; background: linear-gradient(90deg, rgba(255, 210, 30, 0.1) 0%, rgba(13, 17, 23, 0.8) 50%); border-radius: 8px; box-shadow: 0 4px 12px rgba(255, 210, 30, 0.15);">
+<h3 style="color: #FFD21E; margin: 0 0 10px 0;">🎨 AI-Driven Image Editing System</h3>
+<p style="color: #8B949E; margin: 5px 0;"><strong>You Only Need to Ask</strong> - Natural language controlled image processing</p>
+<p style="margin: 10px 0 0 0;"><code style="background: rgba(255, 210, 30, 0.2); padding: 4px 8px; border-radius: 4px; color: #FFD21E;">PaddlePaddle</code> <code style="background: rgba(255, 210, 30, 0.2); padding: 4px 8px; border-radius: 4px; color: #FFD21E;">ERNIE Model</code> <code style="background: rgba(255, 210, 30, 0.2); padding: 4px 8px; border-radius: 4px; color: #FFD21E;">Image Processing</code></p>
+</div>
 
 </div>
 
@@ -152,40 +141,29 @@ University Debate Team Member
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" style="padding: 10px;">
-  <div style="border: 2px solid #9D00FF; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #0D1117 0%, #1a1b27 100%);">
-    <h4>🌍 AIGC Cultural Tourism Brand Communication Platform</h4>
-    <p><strong>REACH Wilderness</strong> - Multilingual content generation</p>
-    <p><code>AIGC</code> <code>Multilingual Processing</code> <code>NLP</code></p>
-  </div>
-</td>
-<td width="50%" style="padding: 10px;">
-  <div style="border: 2px solid #00CED1; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #0D1117 0%, #1a1b27 100%);">
-    <h4>🔐 Business Code Privacy Protection in LLM Era</h4>
-    <p><strong>Privacy Guard</strong> - Advanced privacy computing solution</p>
-    <p><code>Privacy Computing</code> <code>Federated Learning</code> <code>LLM</code></p>
-  </div>
-</td>
-</tr>
-<tr>
-<td width="50%" style="padding: 10px;">
-  <div style="border: 2px solid #FF8C00; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #0D1117 0%, #1a1b27 100%);">
-    <h4>🤖 Cross-Robot Embodiment Imitation Learning</h4>
-    <p><strong>Robotic Arm Design</strong> - Mechanical arm optimization system</p>
-    <p><code>Robotics</code> <code>Reinforcement Learning</code> <code>Control Theory</code></p>
-  </div>
-</td>
-<td width="50%" style="padding: 10px;">
-  <div style="border: 2px solid #32CD32; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #0D1117 0%, #1a1b27 100%);">
-    <h4>💰 Cryptocurrency Prediction System</h4>
-    <p><strong>Kaggle DRW Competition</strong> - Financial data mining & prediction</p>
-    <p><code>Machine Learning</code> <code>Time Series Analysis</code> <code>Python</code></p>
-  </div>
-</td>
-</tr>
-</table>
+<div style="margin: 15px 0; padding: 20px; border-left: 4px solid #9D00FF; background: linear-gradient(90deg, rgba(157, 0, 255, 0.1) 0%, rgba(13, 17, 23, 0.8) 50%); border-radius: 8px; box-shadow: 0 4px 12px rgba(157, 0, 255, 0.15);">
+<h3 style="color: #9D00FF; margin: 0 0 10px 0;">🌍 AIGC Cultural Tourism Brand Communication Platform</h3>
+<p style="color: #8B949E; margin: 5px 0;"><strong>REACH Wilderness</strong> - Multilingual content generation for global tourism</p>
+<p style="margin: 10px 0 0 0;"><code style="background: rgba(157, 0, 255, 0.2); padding: 4px 8px; border-radius: 4px; color: #9D00FF;">AIGC</code> <code style="background: rgba(157, 0, 255, 0.2); padding: 4px 8px; border-radius: 4px; color: #9D00FF;">Multilingual Processing</code> <code style="background: rgba(157, 0, 255, 0.2); padding: 4px 8px; border-radius: 4px; color: #9D00FF;">NLP</code></p>
+</div>
+
+<div style="margin: 15px 0; padding: 20px; border-left: 4px solid #00CED1; background: linear-gradient(90deg, rgba(0, 206, 209, 0.1) 0%, rgba(13, 17, 23, 0.8) 50%); border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 206, 209, 0.15);">
+<h3 style="color: #00CED1; margin: 0 0 10px 0;">🔐 Business Code Privacy Protection in LLM Era</h3>
+<p style="color: #8B949E; margin: 5px 0;"><strong>Privacy Guard</strong> - Advanced privacy computing solution for enterprise</p>
+<p style="margin: 10px 0 0 0;"><code style="background: rgba(0, 206, 209, 0.2); padding: 4px 8px; border-radius: 4px; color: #00CED1;">Privacy Computing</code> <code style="background: rgba(0, 206, 209, 0.2); padding: 4px 8px; border-radius: 4px; color: #00CED1;">Federated Learning</code> <code style="background: rgba(0, 206, 209, 0.2); padding: 4px 8px; border-radius: 4px; color: #00CED1;">LLM</code></p>
+</div>
+
+<div style="margin: 15px 0; padding: 20px; border-left: 4px solid #FF8C00; background: linear-gradient(90deg, rgba(255, 140, 0, 0.1) 0%, rgba(13, 17, 23, 0.8) 50%); border-radius: 8px; box-shadow: 0 4px 12px rgba(255, 140, 0, 0.15);">
+<h3 style="color: #FF8C00; margin: 0 0 10px 0;">🤖 Cross-Robot Embodiment Imitation Learning</h3>
+<p style="color: #8B949E; margin: 5px 0;"><strong>Robotic Arm Design</strong> - Mechanical arm optimization and control system</p>
+<p style="margin: 10px 0 0 0;"><code style="background: rgba(255, 140, 0, 0.2); padding: 4px 8px; border-radius: 4px; color: #FF8C00;">Robotics</code> <code style="background: rgba(255, 140, 0, 0.2); padding: 4px 8px; border-radius: 4px; color: #FF8C00;">Reinforcement Learning</code> <code style="background: rgba(255, 140, 0, 0.2); padding: 4px 8px; border-radius: 4px; color: #FF8C00;">Control Theory</code></p>
+</div>
+
+<div style="margin: 15px 0; padding: 20px; border-left: 4px solid #32CD32; background: linear-gradient(90deg, rgba(50, 205, 50, 0.1) 0%, rgba(13, 17, 23, 0.8) 50%); border-radius: 8px; box-shadow: 0 4px 12px rgba(50, 205, 50, 0.15);">
+<h3 style="color: #32CD32; margin: 0 0 10px 0;">💰 Cryptocurrency Prediction System</h3>
+<p style="color: #8B949E; margin: 5px 0;"><strong>Kaggle DRW Competition</strong> - Advanced financial data mining and prediction</p>
+<p style="margin: 10px 0 0 0;"><code style="background: rgba(50, 205, 50, 0.2); padding: 4px 8px; border-radius: 4px; color: #32CD32;">Machine Learning</code> <code style="background: rgba(50, 205, 50, 0.2); padding: 4px 8px; border-radius: 4px; color: #32CD32;">Time Series Analysis</code> <code style="background: rgba(50, 205, 50, 0.2); padding: 4px 8px; border-radius: 4px; color: #32CD32;">Python</code></p>
+</div>
 
 </div>
 
