@@ -204,10 +204,11 @@ University Debate Team Member
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
 <!-- Snake Game Animation -->
-<img src="https://github.com/boboyoudiancai/boboyoudiancai/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
-<!-- 如果上面的不工作，使用这个备用方案 -->
-<!-- <img src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&height=30&lines=⭐+Star+if+interesting;🤝+Open+to+collaborate;💡+Let's+build+together;🐍+Snake+ate+my+contributions!" alt="Footer"/>
 
