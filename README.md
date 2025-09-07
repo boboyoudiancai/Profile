@@ -6,14 +6,14 @@
 <div align="center">
 
 <!-- Glitch effect title with neon colors -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=500&color=00FF41&background=0D001100&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=%F0%9F%92%80+INITIATING+NEURAL+LINK...;%F0%9F%94%A5+Hello%2C+I'm+%E7%8E%8B%E5%8D%9A+(Wang+Bo);%E2%9A%A1+HACKING+THE+MATRIX;%F0%9F%A4%96+AI+%26+MULTIMODAL+ARCHITECT;%F0%9F%92%BB+FULL-STACK+DEVELOPER;%F0%9F%93%8A+GRAPH+DATA+SCIENTIST" alt="Glitch Text Effect"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=500&color=00FF41&background=0D001100&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=%F0%9F%92%80+INITIATING+NEURAL+LINK...;%F0%9F%94%A5+Hello%2C+I'm+%E7%8E%8B%E5%8D%9A+(Wang+Bo);%E2%9A%A1+BUILDING+THE+FUTURE;%F0%9F%A4%96+AI+%26+MULTIMODAL+ARCHITECT;%F0%9F%92%BB+FULL-STACK+DEVELOPER;%F0%9F%93%8A+GRAPH+DATA+SCIENTIST" alt="Glitch Text Effect"/>
 
 <br/>
 
 <!-- Cyberpunk style badges -->
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=power&logoColor=black" alt="Status"/>
 <img src="https://img.shields.io/badge/LOCATION-Shanghai-FF073A?style=for-the-badge&logo=location&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/MODE-HACKER-9D00FF?style=for-the-badge&logo=hackaday&logoColor=white" alt="Mode"/>
+<img src="https://img.shields.io/badge/MODE-CREATOR-9D00FF?style=for-the-badge&logo=code&logoColor=white" alt="Mode"/>
 
 <br/><br/>
 
@@ -112,17 +112,17 @@
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> SYSTEM_STATISTICS.log
 
-<img src="https://github-readme-stats.vercel.app/api?username=[填写GitHub用户名]&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=FF073A&border_radius=10" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=boboyoudiancai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=FF073A&border_radius=10" alt="GitHub Stats" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[填写GitHub用户名]&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_radius=10" alt="Top Languages" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[填写GitHub用户名]&theme=neon-dark&hide_border=true&stroke=00FF41&ring=FF073A&fire=9D00FF&currStreakLabel=00FF41&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8E8E93&sideNums=00FF41&background=0D1117&border_radius=10" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboyoudiancai&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_radius=10" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[填写GitHub用户名]&bg_color=0D1117&color=00FF41&line=FF073A&point=9D00FF&area=true&hide_border=true&radius=10" alt="Activity Graph"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=boboyoudiancai&theme=neon-dark&hide_border=true&stroke=00FF41&ring=FF073A&fire=9D00FF&currStreakLabel=00FF41&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8E8E93&sideNums=00FF41&background=0D1117&border_radius=10" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boboyoudiancai&bg_color=0D1117&color=00FF41&line=FF073A&point=9D00FF&area=true&hide_border=true&radius=10" alt="Activity Graph"/>
 
 </div>
 
@@ -194,7 +194,7 @@ total 2024
   <img src="https://img.shields.io/badge/知乎_PROTOCOL-0084FF?style=for-the-badge&logo=zhihu&logoColor=white&labelColor=000000" alt="Zhihu"/>
 </a>
 
-<a href="[填写GitHub链接]">
+<a href="https://github.com/boboyoudiancai">
   <img src="https://img.shields.io/badge/GITHUB_MATRIX-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
 </a>
 
@@ -230,7 +230,7 @@ class DigitalPhilosopher:
 <br/>
 
 <!-- Visitor counter with neon effect -->
-<img src="https://komarev.com/ghpvc/?username=[填写GitHub用户名]&label=NEURAL+VISITORS&color=00FF41&style=for-the-badge&labelColor=000000" alt="Visitor Count"/>
+<img src="https://komarev.com/ghpvc/?username=boboyoudiancai&label=NEURAL+VISITORS&color=00FF41&style=for-the-badge&labelColor=000000" alt="Visitor Count"/>
 
 <br/><br/>
 
@@ -238,7 +238,7 @@ class DigitalPhilosopher:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=NEURAL%20LINK%20ESTABLISHED&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlignY=75" width="100%" alt="Matrix Footer"/>
 
 <!-- Glitch text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FF073A&center=true&vCenter=true&width=800&height=50&lines=⚡+ALWAYS+LEARNING%2C+ALWAYS+CODING%2C+ALWAYS+HACKING+⚡;🔥+WELCOME+TO+THE+CYBER+DIMENSION+🔥;🌟+STAR+MY+REPOSITORIES+IF+YOU+DARE+🌟" alt="Glitch Footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FF073A&center=true&vCenter=true&width=800&height=50&lines=⚡+ALWAYS+LEARNING%2C+ALWAYS+CODING%2C+ALWAYS+CREATING+⚡;🔥+WELCOME+TO+THE+CYBER+DIMENSION+🔥;🌟+STAR+MY+REPOSITORIES+IF+YOU+DARE+🌟" alt="Glitch Footer"/>
 
 </div>
 
@@ -258,6 +258,6 @@ class DigitalPhilosopher:
      ███████║██║  ██║██║  ██║██║ ╚████║╚██████╔╝██║  ██║██║  ██║██║
      ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 
-If you found this ASCII art, you're a true hacker! 🔥
+If you found this ASCII art, you're a true developer! 🔥
 Contact me for special projects: 2351563@tongji.edu.cn
 -->
