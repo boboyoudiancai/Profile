@@ -181,6 +181,13 @@ AIGC文旅品牌国际传播平台
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&height=30&lines=⭐+Star+if+interesting;🤝+Open+to+collaborate;💡+Let's+build+together!" alt="Footer"/>
+<!-- Snake Game Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&height=30&lines=⭐+Star+if+interesting;🤝+Open+to+collaborate;💡+Let's+build+together;🐍+Snake+ate+my+contributions!" alt="Footer"/>
 
 </div>
