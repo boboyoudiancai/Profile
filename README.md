@@ -6,22 +6,16 @@
 <br/>
 
 <!-- Dynamic typing title with premium styling -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&duration=2000&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=280&lines=👋+Hi%2C+我是王博+(Wang+Bo);+;💻+Computer+Science+Student;+;🤖+AI+%26+Machine+Learning+Explorer;+;🌟+Building+Tomorrow's+Technology;+;🚀+Code+%7C+Create+%7C+Innovate" alt="Dynamic Title"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&duration=2000&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=280&lines=👋+Hi%2C+我是王博+(Wang+Bo);+;💻+Computer+Science+Student;+;🤖+AI+%26+Machine+Learning+Explorer;+;🌟+Building+Tomorrow's+Technology;+;🚀+Code+%7C+Create+%7C+Innovate" alt="Dynamic Title"/>
 
 <br/>
 
-<!-- Premium floating badges with gradient backgrounds -->
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 12px 24px; border-radius: 25px; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3); backdrop-filter: blur(10px);">
-    <span style="color: white; font-weight: 600; font-size: 14px;">🎓 Tongji University</span>
-  </div>
-  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 12px 24px; border-radius: 25px; box-shadow: 0 8px 32px rgba(240, 147, 251, 0.3); backdrop-filter: blur(10px);">
-    <span style="color: white; font-weight: 600; font-size: 14px;">📍 Shanghai</span>
-  </div>
-  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 12px 24px; border-radius: 25px; box-shadow: 0 8px 32px rgba(79, 172, 254, 0.3); backdrop-filter: blur(10px);">
-    <span style="color: white; font-weight: 600; font-size: 14px;">💡 CS Student</span>
-  </div>
-</div>
+<!-- Premium floating badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_Tongji_University-667eea?style=for-the-badge&logoColor=white&labelColor=764ba2"/>
+  <img src="https://img.shields.io/badge/📍_Shanghai-f093fb?style=for-the-badge&logoColor=white&labelColor=f5576c"/>
+  <img src="https://img.shields.io/badge/💡_CS_Student-4facfe?style=for-the-badge&logoColor=white&labelColor=00f2fe"/>
+</p>
 
 </div>
 
