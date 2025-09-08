@@ -1,13 +1,14 @@
-<div align="center">
-
 <!-- Hacker Terminal Style Header -->
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=45&duration=1000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=%3E+whoami;王博+%7C+WANG+BO;%3E+cat+%2Fdev%2Frole;AI+ENGINEER+%7C+FULL-STACK+DEV;%3E+ls+-la+%2Fskills%2F;MACHINE+LEARNING+%7C+FINTECH+%7C+MULTI-AGENT" alt="Terminal Header"/>
+</div>
 
 <!-- Matrix Rain Effect -->
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="6"/>
 
+<div align="center">
 <!-- Cyberpunk Badges -->
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/%3C%2F%3E_AI_HACKER-00FF41?style=for-the-badge&logoColor=black&labelColor=000000"/>
   <img src="https://img.shields.io/badge/⚡_TONGJI_UNIVERSITY-FF073A?style=for-the-badge&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/🌐_SHANGHAI-00D4FF?style=for-the-badge&logoColor=black&labelColor=000000"/>
@@ -16,7 +17,6 @@
 
 <!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 </div>
 
 <br/>
