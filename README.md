@@ -17,57 +17,49 @@
 </div>
 
 <br/>
-</div>
-
-<br/>
 
 ## 🎓 About Me
 
 <div align="center">
-<table style="line-height: 1.8; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
+<table>
 <tr>
-<td width="50%" style="padding: 20px;">
+<td width="50%" align="center">
 
-### 🏫 Education
-<div style="font-weight: 600; color: 
-#374151; margin-bottom: 8px;">Tongji University</div>
-<div style="color: 
-#6B7280; margin-bottom: 4px;">Computer Science & Technology</div>  
-<div style="color: 
-#9CA3AF; font-size: 14px;">Junior Year | Shanghai, China</div>
+**🏫 Education**
+
+**Tongji University**  
+Computer Science & Technology  
+*Junior Year | Shanghai, China*
 
 <br/>
 
-### 🔬 Research Interests  
-<div style="color: 
-#6B7280; line-height: 1.6;">
-• <span style="color: 
-#667EEA; font-weight: 500;">Multimodal AI Systems</span><br/>
-• <span style="color: 
-#10B981; font-weight: 500;">Graph Neural Networks</span><br/>
-• <span style="color: 
-#F59E0B; font-weight: 500;">Multi-Agent Systems</span><br/>
-• <span style="color: 
-#EF4444; font-weight: 500;">Financial AI & Quantitative Trading</span><br/>
-• <span style="color: 
-#8B5CF6; font-weight: 500;">Machine Learning Applications</span><br/>
-• <span style="color: 
-#06B6D4; font-weight: 500;">Full-Stack Development</span>
-</div>
+**🔬 Research Interests**
+- 🤖 **Multimodal AI Systems**
+- 🧠 **Graph Neural Networks** 
+- 🤝 **Multi-Agent Systems**
+- 💰 **Financial AI & Quantitative Trading**
+- ⚡ **Machine Learning Applications**
+- 💻 **Full-Stack Development**
 
-</td>olor: 
-#667EEA;">2351563@tongji.edu.cn</span><br/>
-📱 <span style="color: 
-#10B981;">+86 17535882765</span><br/>
-💬 <span style="color: 
-#F59E0B;">WeChat: Wbo16059028920725</span>
-</div>
+</td>
+<td width="50%" align="center">
+
+<img width="85%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
+
+<br/><br/>
+
+**📫 Contact**
+- 📧 **2351563@tongji.edu.cn**
+- 📱 **+86 17535882765** 
+- 💬 **WeChat: Wbo16059028920725**
 
 </td>
 </tr>
 </table>
 </div>
+
 <br/>
+
 ---
 
 ## 💻 Technology Stack
@@ -165,15 +157,6 @@
 <p style="color: #8B949E; margin: 5px 0;"><strong>FangGuBao</strong> - Smart property valuation platform using multimodal learning</p>
 <p style="margin: 10px 0 0 0;"><code style="background: rgba(0, 255, 136, 0.2); padding: 4px 8px; border-radius: 4px; color: #00FF88;">Multimodal Learning</code> <code style="background: rgba(0, 255, 136, 0.2); padding: 4px 8px; border-radius: 4px; color: #00FF88;">Rule Learning</code> <code style="background: rgba(0, 255, 136, 0.2); padding: 4px 8px; border-radius: 4px; color: #00FF88;">Machine Learning</code></p>
 </div>
-<td width="50%" align="center" style="padding: 20px;">
-
-<img width="90%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
-
-<br/>
-
-### 📫 Contact
-<div style="color: #6B7280; line-height: 1.8; font-size: 15px;">
-📧 <span style="c
 
 <div style="margin: 15px 0; padding: 20px; border-left: 4px solid #FF6B6B; background: linear-gradient(90deg, rgba(255, 107, 107, 0.1) 0%, rgba(13, 17, 23, 0.8) 50%); border-radius: 8px; box-shadow: 0 4px 12px rgba(255, 107, 107, 0.15);">
 <h3 style="color: #FF6B6B; margin: 0 0 10px 0;">📊 Graph Neural Network Centrality Computation</h3>
