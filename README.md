@@ -19,6 +19,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
+<br/>
+
+---
+
 ## 🎓 About Me
 
 <div align="center">
@@ -71,9 +75,6 @@ English: CET-4 669/710, IELTS 7.5
 
 <div align="center">
 
-<!-- Cyber Section Headers -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="20"/>
-
 ### 🤖 AI & MACHINE LEARNING
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark&perline=8"/>
@@ -85,15 +86,11 @@ English: CET-4 669/710, IELTS 7.5
   <img src="https://img.shields.io/badge/⚡_LANGCHAIN-00D4FF?style=for-the-badge&logoColor=black&labelColor=000000"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%" height="20"/>
-
 ### 💻 FULL-STACK DEVELOPMENT
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,express,fastapi,docker&theme=dark&perline=8"/>
   <img src="https://skillicons.dev/icons?i=java,cpp,go,rust,mysql,mongodb,redis,kubernetes&theme=dark&perline=8"/>
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%" height="20"/>
 
 ### 🛠️ TOOLS & PLATFORMS
 <p align="center">
@@ -111,9 +108,6 @@ English: CET-4 669/710, IELTS 7.5
 ## 📊 CODE MATRIX
 
 <div align="center">
-
-<!-- Matrix Style Header -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="20"/>
 
 <!-- Cyberpunk Stats -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=boboyoudiancai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF073A&border_radius=10"/>
@@ -205,9 +199,6 @@ English: CET-4 669/710, IELTS 7.5
 ## 🌐 NETWORK CONNECTION
 
 <div align="center">
-
-<!-- Matrix Connection Header -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="20"/>
 
 <p align="center">
 <a href="mailto:2351563@tongji.edu.cn">
