@@ -47,9 +47,6 @@
 
 <img width="90%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
 
-<br/>
-<br/>
-
 ### 📫 Contact
 <div style="color: #6B7280; line-height: 1.8; font-size: 15px;">
 📧 <span style="color: #667EEA;">2351563@tongji.edu.cn</span><br/>
