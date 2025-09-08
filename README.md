@@ -4,17 +4,17 @@
 <div align="center">
 
 <!-- Holographic Name Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=50&duration=1500&pause=500&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=200&lines=🚀+WELCOME+TO+MY+DIGITAL+UNIVERSE;💫+王博+(WANG+BO)+%7C+AI+EXPLORER;🤖+BUILDING+THE+FUTURE+WITH+CODE;⚡+MACHINE+LEARNING+%7C+FINTECH+%7C+MULTI-AGENT" alt="Holographic Title"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=1500&pause=500&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=🚀+WELCOME+TO+MY+DIGITAL+UNIVERSE;💫+王博+(WANG+BO)+%7C+AI+EXPLORER;🤖+BUILDING+THE+FUTURE+WITH+CODE;⚡+MACHINE+LEARNING+%7C+FINTECH+%7C+MULTI-AGENT" alt="Holographic Title"/>
 
 <!-- Matrix-style Rain Effect -->
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="6"/>
 
 <!-- Neon Badges with Glow Effect -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_AI_EXPLORER-00ff41?style=for-the-badge&logoColor=black&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🔥_TONGJI_UNIVERSITY-ff6b35?style=for-the-badge&logoColor=white&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/⚡_SHANGHAI-00d4ff?style=for-the-badge&logoColor=black&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🚀_FULL_STACK-9d00ff?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🎯%20AI%20EXPLORER-00ff41?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🔥%20TONGJI%20UNIVERSITY-ff6b35?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/⚡%20SHANGHAI-00d4ff?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🚀%20FULL%20STACK-9d00ff?style=for-the-badge&logoColor=white&labelColor=000000"/>
 </p>
 
 <!-- Cyberpunk Divider -->
@@ -79,22 +79,18 @@ English: CET-4 669/710, IELTS 7.5
 
 <div align="center">
 
-<!-- Tech Stack with Animated Icons -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="20"/>
-
 ### 🤖 AI & MACHINE LEARNING
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark&perline=8"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_TRANSFORMERS-FFD21E?style=for-the-badge&logoColor=black&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🧠_OPENAI-00ff41?style=for-the-badge&logoColor=black&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/⚡_HUGGINGFACE-ff6b35?style=for-the-badge&logoColor=white&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🚀_LANGCHAIN-9d00ff?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🔥%20TRANSFORMERS-FFD21E?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🧠%20OPENAI-00ff41?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/⚡%20HUGGINGFACE-ff6b35?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🚀%20LANGCHAIN-9d00ff?style=for-the-badge&logoColor=white&labelColor=000000"/>
 </p>
 
-<!-- Cyber Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%" height="20"/>
+<br/>
 
 ### 🌐 FULL-STACK DEVELOPMENT  
 <p align="center">
@@ -104,16 +100,12 @@ English: CET-4 669/710, IELTS 7.5
   <img src="https://skillicons.dev/icons?i=java,cpp,go,rust,mysql,mongodb,redis,kubernetes&theme=dark&perline=8"/>
 </p>
 
-<!-- Lightning Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%" height="20"/>
+<br/>
 
 ### 🛠️ TOOLS & PLATFORMS
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,gcp,figma,postman&theme=dark&perline=8"/>
 </p>
-
-<!-- Matrix Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="6"/>
 
 </div>
 
@@ -230,12 +222,6 @@ English: CET-4 669/710, IELTS 7.5
 
 **💫 "Code is poetry written in the language of logic"**
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=boboyoudiancai&label=Views&color=00d4ff&style=flat"/>
-
-</div>
-
 ---
 
 <div align="center">
@@ -254,7 +240,7 @@ English: CET-4 669/710, IELTS 7.5
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 <!-- Cyberpunk Typography -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&width=1000&height=60&lines=⚡+THANKS+FOR+ENTERING+MY+DIGITAL+REALM;🚀+STAR+IF+YOU+FOUND+SOMETHING+INTERESTING;🤝+ALWAYS+OPEN+TO+COLLABORATE+ON+COOL+PROJECTS;💫+LET'S+BUILD+THE+FUTURE+TOGETHER;🐍+WATCH+THE+SNAKE+DEVOUR+MY+CONTRIBUTIONS" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&width=900&height=50&lines=⚡+THANKS+FOR+ENTERING+MY+DIGITAL+REALM;🚀+STAR+IF+YOU+FOUND+SOMETHING+INTERESTING;🤝+ALWAYS+OPEN+TO+COLLABORATE;💫+LET'S+BUILD+THE+FUTURE+TOGETHER" alt="Footer Animation"/>
 
 <!-- Matrix Rain Footer -->
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="50"/>
