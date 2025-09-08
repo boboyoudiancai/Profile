@@ -21,28 +21,26 @@
 ## 🎓 About Me
 
 <div align="center">
-<table style="line-height: 1.8;">
+<table style="line-height: 1.8; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
 <tr>
 <td width="50%" style="padding: 20px;">
 
 ### 🏫 Education
-**Tongji University**  
-Computer Science & Technology  
-Junior Year | Shanghai, China
+<div style="font-weight: 600; color: #374151; margin-bottom: 8px;">Tongji University</div>
+<div style="color: #6B7280; margin-bottom: 4px;">Computer Science & Technology</div>  
+<div style="color: #9CA3AF; font-size: 14px;">Junior Year | Shanghai, China</div>
 
-<br/>
-
-### 🌐 Language Skills  
-English: CET-4 669/710, IELTS 7.5  
 <br/>
 
 ### 🔬 Research Interests  
-• Multimodal AI Systems  
-• Graph Neural Networks  
-• Multi-Agent Systems  
-• Financial AI & Quantitative Trading  
-• Machine Learning Applications  
-• Full-Stack Development
+<div style="color: #6B7280; line-height: 1.6;">
+• <span style="color: #667EEA; font-weight: 500;">Multimodal AI Systems</span><br/>
+• <span style="color: #10B981; font-weight: 500;">Graph Neural Networks</span><br/>
+• <span style="color: #F59E0B; font-weight: 500;">Multi-Agent Systems</span><br/>
+• <span style="color: #EF4444; font-weight: 500;">Financial AI & Quantitative Trading</span><br/>
+• <span style="color: #8B5CF6; font-weight: 500;">Machine Learning Applications</span><br/>
+• <span style="color: #06B6D4; font-weight: 500;">Full-Stack Development</span>
+</div>
 
 </td>
 <td width="50%" align="center" style="padding: 20px;">
@@ -53,9 +51,11 @@ English: CET-4 669/710, IELTS 7.5
 <br/>
 
 ### 📫 Contact
-📧 2351563@tongji.edu.cn  
-📱 +86 17535882765  
-💬 WeChat: Wbo16059028920725
+<div style="color: #6B7280; line-height: 1.8; font-size: 15px;">
+📧 <span style="color: #667EEA;">2351563@tongji.edu.cn</span><br/>
+📱 <span style="color: #10B981;">+86 17535882765</span><br/>
+💬 <span style="color: #F59E0B;">WeChat: Wbo16059028920725</span>
+</div>
 
 </td>
 </tr>
@@ -226,7 +226,7 @@ English: CET-4 669/710, IELTS 7.5
 
 <br/>
 
-<p style="color: #6B7280; font-style: italic;">"Fake it until make it.</p>
+<p style="color: #6B7280; font-style: italic;">"Building intelligent systems that make a positive impact"</p>
 
 </div>
 
