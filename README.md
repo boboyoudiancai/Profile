@@ -1,6 +1,6 @@
 <!-- Hacker Terminal Style Header -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=45&duration=1000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=%3E+whoami;王博+%7C+WANG+BO;%3E+cat+%2Fdev%2Frole;AI+ENGINEER+%7C+FULL-STACK+DEV;%3E+ls+-la+%2Fskills%2F;MACHINE+LEARNING+%7C+FINTECH+%7C+MULTI-AGENT" alt="Terminal Header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=1000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=160&lines=%3E+whoami;王博+%7C+WANG+BO;%3E+cat+%2Fdev%2Frole;AI+ENGINEER+%7C+FULL-STACK+DEV;%3E+ls+-la+%2Fskills%2F;MACHINE+LEARNING+%7C+FINTECH+%7C+MULTI-AGENT" alt="Terminal Header"/>
 </div>
 
 <!-- Matrix Rain Effect -->
