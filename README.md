@@ -1,6 +1,6 @@
 <!-- Hacker Terminal Style Header -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=1000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%3E+whoami;王博+%7C+WANG+BO;%3E+cat+%2Fdev%2Frole;AI+ENGINEER+%7C+FULL-STACK+DEV;%3E+ls+-la+%2Fskills%2F;MACHINE+LEARNING+%7C+FINTECH" alt="Terminal Header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=1000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%3E+whoami;王博+%7C+WANG+BO;%3E+ls+-la+%2Fskills%2F;MACHINE+LEARNING+%7C+FINTECH" alt="Terminal Header"/>
 </div>
 
 <!-- Matrix Rain Effect -->
@@ -18,9 +18,6 @@
 <!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
-
-<br/>
-
 ---
 
 ## 🎓 About Me
@@ -239,13 +236,6 @@ English: CET-4 669/710, IELTS 7.5
 
 <!-- Holographic Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<!-- Matrix Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!-- Fallback Snake -->
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
