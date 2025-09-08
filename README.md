@@ -1,9 +1,6 @@
 <!-- Clean Header -->
 <div align="center">
 
-<!-- Gradient Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,16,20&height=150&section=header&text=WANG%20BO&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
-
 <!-- Simple Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=2000&pause=1500&color=667EEA&center=true&vCenter=true&width=400&height=60&lines=Hi%2C+Wang+Bo+👋" alt="Greeting"/>
 
