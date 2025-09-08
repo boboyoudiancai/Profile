@@ -1,10 +1,10 @@
 <!-- Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,6,7,24,25,30&height=300&section=header&text=WANG%20BO&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Full-Stack%20Developer%20|%20Research%20Enthusiast&descSize=25&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,6,7,24,25,30&height=300&section=header&text=WANG%20BO&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Explorer%20|%20Full-Stack%20Developer%20|%20Research%20Enthusiast&descSize=25&descAlignY=55" width="100%"/>
 
 <div align="center">
 
 <!-- Holographic Name Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=50&duration=1500&pause=500&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=200&lines=🚀+WELCOME+TO+MY+DIGITAL+UNIVERSE;💫+王博+(WANG+BO)+%7C+AI+RESEARCHER;🤖+BUILDING+THE+FUTURE+WITH+CODE;⚡+MACHINE+LEARNING+%7C+FINTECH+%7C+MULTI-AGENT" alt="Holographic Title"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=50&duration=1500&pause=500&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=200&lines=🚀+WELCOME+TO+MY+DIGITAL+UNIVERSE;💫+王博+(WANG+BO)+%7C+AI+EXPLORER;🤖+BUILDING+THE+FUTURE+WITH+CODE;⚡+MACHINE+LEARNING+%7C+FINTECH+%7C+MULTI-AGENT" alt="Holographic Title"/>
 
 <!-- Matrix-style Rain Effect -->
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="6"/>
@@ -240,20 +240,29 @@ English: CET-4 669/710, IELTS 7.5
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
+<!-- Holographic Footer -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<!-- Snake Game Animation -->
+<!-- Advanced Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- 备用贪吃蛇动画 -->
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<!-- Fallback Snake -->
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
-<br/>
+<!-- Cyberpunk Typography -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&width=1000&height=60&lines=⚡+THANKS+FOR+ENTERING+MY+DIGITAL+REALM;🚀+STAR+IF+YOU+FOUND+SOMETHING+INTERESTING;🤝+ALWAYS+OPEN+TO+COLLABORATE+ON+COOL+PROJECTS;💫+LET'S+BUILD+THE+FUTURE+TOGETHER;🐍+WATCH+THE+SNAKE+DEVOUR+MY+CONTRIBUTIONS" alt="Footer Animation"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&height=30&lines=⭐+Star+if+interesting;🤝+Open+to+collaborate;💡+Let's+build+together;🐍+Snake+ate+my+contributions!" alt="Footer"/>
+<!-- Matrix Rain Footer -->
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="50"/>
+
+<!-- Visitor Counter with Glow -->
+<img src="https://komarev.com/ghpvc/?username=boboyoudiancai&label=DIGITAL+VISITORS&color=00d4ff&style=for-the-badge&labelColor=000000"/>
+
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,6,7,24,25,30&height=150&section=footer&text=CODE+IS+ART&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
 
 </div>
