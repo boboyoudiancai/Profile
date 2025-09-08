@@ -17,80 +17,57 @@
 </div>
 
 <br/>
-# 🎓 About Me
-
-<div align="center">
-
-## 📚 **Education**
-**🏛️ Tongji University**  
-`Computer Science & Technology` • *Junior Year*  
-📍 *Shanghai, China*
-
----
-
-## 🔬 **Research Interests**
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-**🤖 AI & Machine Learning**
-- 🧠 Multimodal AI Systems
-- 📊 Graph Neural Networks  
-- 🤝 Multi-Agent Systems
-
-</td>
-<td width="50%" align="center">
-
-**💻 Development & Applications**
-- 📈 Financial AI & Quant Trading
-- 🔧 Machine Learning Applications
-- 🌐 Full-Stack Development
-
-</td>
-</tr>
-</table>
-
----
-
-## 📬 **Contact Information**
-
-<table align="center">
-<tr>
-<td align="center">
-
-📧 **Email**  
-`2351563@tongji.edu.cn`
-
-</td>
-<td align="center">
-
-📱 **Phone**  
-`+86 17535882765`
-
-</td>
-<td align="center">
-
-💬 **WeChat**  
-`Wbo16059028920725`
-
-</td>
-</tr>
-</table>
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
 </div>
 
----
+<br/>
 
-### 🚀 **Quick Facts**
-> 🎯 **Passionate** about cutting-edge AI research  
-> 💡 **Exploring** the intersection of technology and finance  
-> 🌟 **Always** eager to collaborate on innovative projects
+## 🎓 About Me
 
+<div align="center">
+<table style="line-height: 1.8; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
+<tr>
+<td width="50%" style="padding: 20px;">
+
+### 🏫 Education
+<div style="font-weight: 600; color: 
+#374151; margin-bottom: 8px;">Tongji University</div>
+<div style="color: 
+#6B7280; margin-bottom: 4px;">Computer Science & Technology</div>  
+<div style="color: 
+#9CA3AF; font-size: 14px;">Junior Year | Shanghai, China</div>
+
+<br/>
+
+### 🔬 Research Interests  
+<div style="color: 
+#6B7280; line-height: 1.6;">
+• <span style="color: 
+#667EEA; font-weight: 500;">Multimodal AI Systems</span><br/>
+• <span style="color: 
+#10B981; font-weight: 500;">Graph Neural Networks</span><br/>
+• <span style="color: 
+#F59E0B; font-weight: 500;">Multi-Agent Systems</span><br/>
+• <span style="color: 
+#EF4444; font-weight: 500;">Financial AI & Quantitative Trading</span><br/>
+• <span style="color: 
+#8B5CF6; font-weight: 500;">Machine Learning Applications</span><br/>
+• <span style="color: 
+#06B6D4; font-weight: 500;">Full-Stack Development</span>
+</div>
+
+</td>olor: 
+#667EEA;">2351563@tongji.edu.cn</span><br/>
+📱 <span style="color: 
+#10B981;">+86 17535882765</span><br/>
+💬 <span style="color: 
+#F59E0B;">WeChat: Wbo16059028920725</span>
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+<br/>
 ---
 
 ## 💻 Technology Stack
