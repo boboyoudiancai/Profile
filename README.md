@@ -251,8 +251,6 @@ English: CET-4 669/710, IELTS 7.5
 <!-- Clean Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=boboyoudiancai&label=Profile%20Views&color=667eea&style=flat-square"/>
 
-<br/><br/>
-
 <!-- Beautiful Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,16,20&height=120&section=footer" width="100%"/>
 
