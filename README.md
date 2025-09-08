@@ -226,7 +226,7 @@ English: CET-4 669/710, IELTS 7.5
 
 <br/>
 
-<p style="color: #6B7280; font-style: italic;">"Building intelligent systems that make a positive impact"</p>
+<p style="color: #6B7280; font-style: italic;">"Fake it until make it.</p>
 
 </div>
 
