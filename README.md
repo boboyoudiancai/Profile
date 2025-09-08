@@ -241,8 +241,6 @@ English: CET-4 669/710, IELTS 7.5
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/><br/>
-
 <!-- Elegant Footer Message -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=3000&pause=1500&color=667EEA&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+visiting!;Always+open+to+collaborate;Let's+build+something+amazing" alt="Footer"/>
 
