@@ -1,22 +1,22 @@
-<!-- Hacker Terminal Style Header -->
+<!-- Modern Header -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=1000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%3E+whoami;王博+%7C+WANG+BO;%3E+ls+-la+%2Fskills%2F;MACHINE+LEARNING+%7C+FINTECH" alt="Terminal Header"/>
-</div>
 
-<!-- Matrix Rain Effect -->
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="6"/>
+<!-- Clean Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,16,20&height=180&section=header&text=WANG%20BO&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%26%20Full-Stack%20Developer&descSize=20&descAlignY=58" width="100%"/>
 
-<div align="center">
-<!-- Cyberpunk Badges -->
+<!-- Elegant Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=32&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi%2C+I'm+Wang+Bo+👋;AI+Engineer+%26+Developer;Building+intelligent+systems" alt="Typing"/>
+
+<br/>
+
+<!-- Modern Badge System -->
 <p>
-  <img src="https://img.shields.io/badge/%3C%2F%3E_AI_HACKER-00FF41?style=for-the-badge&logoColor=black&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/⚡_TONGJI_UNIVERSITY-FF073A?style=for-the-badge&logoColor=white&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🌐_SHANGHAI-00D4FF?style=for-the-badge&logoColor=black&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🔥_FULL_STACK-FFD700?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🎓-Tongji%20University-6366F1?style=flat-square&labelColor=white&color=6366F1"/>
+  <img src="https://img.shields.io/badge/📍-Shanghai-10B981?style=flat-square&labelColor=white&color=10B981"/>
+  <img src="https://img.shields.io/badge/🚀-Full%20Stack-F59E0B?style=flat-square&labelColor=white&color=F59E0B"/>
+  <img src="https://img.shields.io/badge/🤖-AI%20Engineer-EF4444?style=flat-square&labelColor=white&color=EF4444"/>
 </p>
 
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
 <br/>
@@ -71,33 +71,47 @@ English: CET-4 669/710, IELTS 7.5
 
 ---
 
-## ⚡ TECH ARSENAL
+## 💻 Technology Stack
 
 <div align="center">
 
-### 🤖 AI & MACHINE LEARNING
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark&perline=8"/>
+<!-- Clean section layout -->
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=light&perline=4"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥_TRANSFORMERS-FF6B35?style=for-the-badge&logoColor=white&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🧠_OPENAI-00FF41?style=for-the-badge&logoColor=black&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🤗_HUGGINGFACE-FFD700?style=for-the-badge&logoColor=black&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/⚡_LANGCHAIN-00D4FF?style=for-the-badge&logoColor=black&labelColor=000000"/>
+<p>
+  <img src="https://img.shields.io/badge/Transformers-F59E0B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-10B981?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-EF4444?style=flat-square&logoColor=white"/>
 </p>
 
-### 💻 FULL-STACK DEVELOPMENT
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,express,fastapi,docker&theme=dark&perline=8"/>
-  <img src="https://skillicons.dev/icons?i=java,cpp,go,rust,mysql,mongodb,redis,kubernetes&theme=dark&perline=8"/>
+</td>
+<td align="center" width="50%">
+
+### 🌐 Full-Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue&theme=light&perline=4"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,docker&theme=light&perline=4"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-6366F1?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-10B981?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-EF4444?style=flat-square&logoColor=white"/>
 </p>
 
-### 🛠️ TOOLS & PLATFORMS
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,gcp,figma,postman&theme=dark&perline=8"/>
-</p>
+</td>
+</tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="6"/>
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,gcp,figma,postman&theme=light&perline=8"/>
+</p>
 
 </div>
 
