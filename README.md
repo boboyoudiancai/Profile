@@ -8,10 +8,10 @@
 
 <!-- Badge System -->
 <p>
-  <img src="https://img.shields.io/badge/🎓-Tongji%20University-6366F1?style=flat-square&labelColor=white&color=6366F1"/>
-  <img src="https://img.shields.io/badge/📍-Shanghai-10B981?style=flat-square&labelColor=white&color=10B981"/>
-  <img src="https://img.shields.io/badge/🚀-Full%20Stack-F59E0B?style=flat-square&labelColor=white&color=F59E0B"/>
-  <img src="https://img.shields.io/badge/🤖-AI%20Explorer-EF4444?style=flat-square&labelColor=white&color=EF4444"/>
+  <img src="https://img.shields.io/badge/🎓Tongji%20University-6366F1?style=flat-square&labelColor=white&color=6366F1"/>
+  <img src="https://img.shields.io/badge/📍Shanghai-10B981?style=flat-square&labelColor=white&color=10B981"/>
+  <img src="https://img.shields.io/badge/🚀Full%20Stack-F59E0B?style=flat-square&labelColor=white&color=F59E0B"/>
+  <img src="https://img.shields.io/badge/🤖AI%20Explorer-EF4444?style=flat-square&labelColor=white&color=EF4444"/>
 </p>
 
 </div>
