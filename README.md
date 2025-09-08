@@ -14,14 +14,10 @@
   <img src="https://img.shields.io/badge/🎓-Tongji%20University-6366F1?style=flat-square&labelColor=white&color=6366F1"/>
   <img src="https://img.shields.io/badge/📍-Shanghai-10B981?style=flat-square&labelColor=white&color=10B981"/>
   <img src="https://img.shields.io/badge/🚀-Full%20Stack-F59E0B?style=flat-square&labelColor=white&color=F59E0B"/>
-  <img src="https://img.shields.io/badge/🤖-AI%20Engineer-EF4444?style=flat-square&labelColor=white&color=EF4444"/>
+  <img src="https://img.shields.io/badge/🤖-AI%20Explorer-EF4444?style=flat-square&labelColor=white&color=EF4444"/>
 </p>
 
 </div>
-
-<br/>
-
----
 
 ## 🎓 About Me
 
@@ -119,28 +115,31 @@ English: CET-4 669/710, IELTS 7.5
 
 ---
 
-## 📊 CODE MATRIX
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<!-- Cyberpunk Stats -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=boboyoudiancai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF073A&border_radius=10"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboyoudiancai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&border_radius=10&langs_count=8"/>
+<!-- Clean white-background stats -->
+<table>
+<tr>
+<td align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=boboyoudiancai&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=374151&text_color=6B7280&icon_color=667EEA&border_radius=12"/>
+</td>
+<td align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboyoudiancai&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=374151&text_color=6B7280&border_radius=12&langs_count=6"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- Neon Streak -->
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=boboyoudiancai&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=FF073A&fire=FFD700&currStreakLabel=00FF41&border_radius=10"/>
+<!-- Beautiful streak stats -->
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=boboyoudiancai&theme=default&hide_border=true&background=FFFFFF&stroke=667EEA&ring=10B981&fire=F59E0B&currStreakLabel=374151&border_radius=12"/>
 
-<br/>
+<br/><br/>
 
-<!-- Hacker Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boboyoudiancai&bg_color=0D1117&color=00FF41&line=FF073A&point=FFD700&area=true&hide_border=true&custom_title=⚡%20HACKER%20ACTIVITY%20MATRIX&radius=10" width="100%"/>
-
-<!-- Profile Summary with Cyberpunk Theme -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boboyoudiancai&theme=radical" width="100%"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="6"/>
+<!-- Activity graph with natural colors -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boboyoudiancai&bg_color=FFFFFF&color=667EEA&line=10B981&point=F59E0B&area=true&hide_border=true&custom_title=Development%20Activity&radius=12" width="100%"/>
 
 </div>
 
@@ -210,27 +209,25 @@ English: CET-4 669/710, IELTS 7.5
 
 ---
 
-## 🌐 NETWORK CONNECTION
+## 🤝 Let's Connect
 
 <div align="center">
 
-<p align="center">
+<p>
 <a href="mailto:2351563@tongji.edu.cn">
-  <img src="https://img.shields.io/badge/📧_EMAIL-00FF41?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Email-667EEA?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/boboyoudiancai">
-  <img src="https://img.shields.io/badge/💻_GITHUB-FF073A?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/GitHub-374151?style=flat-square&logo=github&logoColor=white"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/💬_WECHAT-FFD700?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/WeChat-10B981?style=flat-square&logo=wechat&logoColor=white"/>
 </a>
 </p>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=40&lines=%3E+echo+%22Building+AI+systems+that+change+the+world%22;%3E+sudo+make+impact;%3E+./connect+--with+awesome-people" alt="Hacker Quote"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="6"/>
+<p style="color: #6B7280; font-style: italic;">"Building intelligent systems that make a positive impact"</p>
 
 </div>
 
@@ -238,28 +235,26 @@ English: CET-4 669/710, IELTS 7.5
 
 <div align="center">
 
-<!-- Holographic Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<!-- Clean Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
+</picture>
 
-<!-- Fallback Snake -->
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<br/><br/>
 
-<br/>
-
-<!-- Hacker Footer Typography -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=1500&color=00FF41&background=000000&center=true&vCenter=true&width=900&height=50&lines=%3E+thanks_for_visiting.sh+executed+successfully;%3E+connection_established+--mode+collaborative;%3E+while+true%3A+build_awesome_projects();%3E+exit_status%3A+legendary_coder_detected" alt="Hacker Footer"/>
-
-<br/>
-
-<!-- Cyberpunk Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=boboyoudiancai&label=HACKERS_DETECTED&color=00ff41&style=for-the-badge&labelColor=000000"/>
+<!-- Elegant Footer Message -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=3000&pause=1500&color=667EEA&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+visiting!;Always+open+to+collaborate;Let's+build+something+amazing" alt="Footer"/>
 
 <br/>
 
-<!-- Matrix Rain Footer -->
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="50"/>
+<!-- Clean Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=boboyoudiancai&label=Profile%20Views&color=667eea&style=flat-square"/>
 
-<!-- Neon Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,8,10,24&height=150&section=footer&text=HACK_THE_PLANET&fontSize=30&fontColor=00FF41&animation=twinkling&fontAlignY=75" width="100%"/>
+<br/><br/>
+
+<!-- Beautiful Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,16,20&height=120&section=footer" width="100%"/>
 
 </div>
