@@ -45,6 +45,8 @@ English: CET-4 669/710, IELTS 7.5
 ### 🔬 Research Interests  
 • Multimodal AI Systems  
 • Graph Neural Networks  
+• Multi-Agent Systems  
+• Financial AI & Quantitative Trading  
 • Machine Learning Applications  
 • Full-Stack Development
 
@@ -89,26 +91,6 @@ English: CET-4 669/710, IELTS 7.5
 </div>
 
 <br/>
-
----
-
-## 🔧 Development Focus
-
-<div align="center">
-
-### Current Research & Development
-- **Deep Learning Systems**: Optimizing large-scale model training and inference pipelines
-- **Graph Neural Networks**: Developing efficient algorithms for node centrality computation  
-- **Multimodal AI**: Building systems that process and understand multiple data modalities
-- **MLOps & Infrastructure**: Designing scalable machine learning deployment architectures
-
-### Technical Expertise
-- **Backend Systems**: High-performance API development, microservices architecture
-- **AI/ML Engineering**: Model optimization, distributed training, production deployment  
-- **Data Engineering**: ETL pipelines, real-time data processing, feature engineering
-- **Cloud Computing**: Container orchestration, serverless architectures, CI/CD
-
-</div>
 
 ---
 
@@ -191,26 +173,6 @@ English: CET-4 669/710, IELTS 7.5
 
 ---
 
-## 💻 Open Source & Contributions
-
-<div align="center">
-
-### Active Repositories
-- **Machine Learning Research**: Implementing and optimizing state-of-the-art ML algorithms
-- **Full-Stack Applications**: Building scalable web applications with modern tech stacks  
-- **Developer Tools**: Creating utilities and libraries to improve development workflows
-- **Documentation & Tutorials**: Sharing knowledge through comprehensive project documentation
-
-### Contribution Highlights
-- Contributed to **PyTorch** ecosystem projects for model optimization
-- Published research implementations with **detailed benchmarking results**
-- Maintained **production-grade codebases** with comprehensive test coverage
-- Regular contributor to **open-source ML frameworks** and **developer tooling**
-
-</div>
-
----
-
 ## 🌐 Connect
 
 <div align="center">
@@ -227,7 +189,7 @@ English: CET-4 669/710, IELTS 7.5
 
 <br/><br/>
 
-**💫 "Code is poetry written in the language of logic"**
+**💫 "Fake it until make it."**
 
 <br/>
 
