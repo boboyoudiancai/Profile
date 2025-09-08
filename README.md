@@ -92,6 +92,26 @@ English: CET-4 669/710, IELTS 7.5
 
 ---
 
+## 🔧 Development Focus
+
+<div align="center">
+
+### Current Research & Development
+- **Deep Learning Systems**: Optimizing large-scale model training and inference pipelines
+- **Graph Neural Networks**: Developing efficient algorithms for node centrality computation  
+- **Multimodal AI**: Building systems that process and understand multiple data modalities
+- **MLOps & Infrastructure**: Designing scalable machine learning deployment architectures
+
+### Technical Expertise
+- **Backend Systems**: High-performance API development, microservices architecture
+- **AI/ML Engineering**: Model optimization, distributed training, production deployment  
+- **Data Engineering**: ETL pipelines, real-time data processing, feature engineering
+- **Cloud Computing**: Container orchestration, serverless architectures, CI/CD
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -171,6 +191,26 @@ English: CET-4 669/710, IELTS 7.5
 
 ---
 
+## 💻 Open Source & Contributions
+
+<div align="center">
+
+### Active Repositories
+- **Machine Learning Research**: Implementing and optimizing state-of-the-art ML algorithms
+- **Full-Stack Applications**: Building scalable web applications with modern tech stacks  
+- **Developer Tools**: Creating utilities and libraries to improve development workflows
+- **Documentation & Tutorials**: Sharing knowledge through comprehensive project documentation
+
+### Contribution Highlights
+- Contributed to **PyTorch** ecosystem projects for model optimization
+- Published research implementations with **detailed benchmarking results**
+- Maintained **production-grade codebases** with comprehensive test coverage
+- Regular contributor to **open-source ML frameworks** and **developer tooling**
+
+</div>
+
+---
+
 ## 🌐 Connect
 
 <div align="center">
@@ -200,13 +240,6 @@ English: CET-4 669/710, IELTS 7.5
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
-
-<!-- Snake Game Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!-- 备用贪吃蛇动画 -->
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
