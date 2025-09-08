@@ -21,37 +21,41 @@
 ## 🎓 About Me
 
 <div align="center">
-<table>
+<table style="line-height: 1.8; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
 <tr>
-<td width="50%" align="center">
+<td width="50%" style="padding: 20px;">
 
-**🏫 Education**
-
-**Tongji University**  
-Computer Science & Technology  
-*Junior Year | Shanghai, China*
+### 🏫 Education
+<div style="font-weight: 600; color: #374151; margin-bottom: 8px;">Tongji University</div>
+<div style="color: #6B7280; margin-bottom: 4px;">Computer Science & Technology</div>  
+<div style="color: #9CA3AF; font-size: 14px;">Junior Year | Shanghai, China</div>
 
 <br/>
 
-**🔬 Research Interests**
- 🤖 **Multimodal AI Systems**
- 🧠 **Graph Neural Networks** 
- 🤝 **Multi-Agent Systems**
- 💰 **Financial AI & Quantitative Trading**
- ⚡ **Machine Learning Applications**
- 💻 **Full-Stack Development**
+### 🔬 Research Interests  
+<div style="color: #6B7280; line-height: 1.6;">
+• <span style="color: #667EEA; font-weight: 500;">Multimodal AI Systems</span><br/>
+• <span style="color: #10B981; font-weight: 500;">Graph Neural Networks</span><br/>
+• <span style="color: #F59E0B; font-weight: 500;">Multi-Agent Systems</span><br/>
+• <span style="color: #EF4444; font-weight: 500;">Financial AI & Quantitative Trading</span><br/>
+• <span style="color: #8B5CF6; font-weight: 500;">Machine Learning Applications</span><br/>
+• <span style="color: #06B6D4; font-weight: 500;">Full-Stack Development</span>
+</div>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding: 20px;">
 
-<img width="85%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
+<img width="90%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
 
-<br/><br/>
+<br/>
+<br/>
 
-**📫 Contact**
-- 📧 **2351563@tongji.edu.cn**
-- 📱 **+86 17535882765** 
-- 💬 **WeChat: Wbo16059028920725**
+### 📫 Contact
+<div style="color: #6B7280; line-height: 1.8; font-size: 15px;">
+📧 <span style="color: #667EEA;">2351563@tongji.edu.cn</span><br/>
+📱 <span style="color: #10B981;">+86 17535882765</span><br/>
+💬 <span style="color: #F59E0B;">WeChat: Wbo16059028920725</span>
+</div>
 
 </td>
 </tr>
@@ -237,8 +241,6 @@ Computer Science & Technology
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/><br/>
-
 <!-- Elegant Footer Message -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=3000&pause=1500&color=667EEA&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+visiting!;Always+open+to+collaborate;Let's+build+something+amazing" alt="Footer"/>
 
@@ -246,8 +248,6 @@ Computer Science & Technology
 
 <!-- Clean Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=boboyoudiancai&label=Profile%20Views&color=667eea&style=flat-square"/>
-
-<br/><br/>
 
 <!-- Beautiful Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,16,20&height=120&section=footer" width="100%"/>
