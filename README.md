@@ -1,21 +1,24 @@
+<!-- Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,6,7,24,25,30&height=300&section=header&text=WANG%20BO&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Full-Stack%20Developer%20|%20Research%20Enthusiast&descSize=25&descAlignY=55" width="100%"/>
+
 <div align="center">
 
-<!-- Animated particles background with proper ratio -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Particle Animation"/>
+<!-- Holographic Name Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=50&duration=1500&pause=500&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=200&lines=🚀+WELCOME+TO+MY+DIGITAL+UNIVERSE;💫+王博+(WANG+BO)+%7C+AI+RESEARCHER;🤖+BUILDING+THE+FUTURE+WITH+CODE;⚡+MACHINE+LEARNING+%7C+FINTECH+%7C+MULTI-AGENT" alt="Holographic Title"/>
 
-<br/>
+<!-- Matrix-style Rain Effect -->
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="6"/>
 
-<!-- Dynamic typing title with premium styling -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=2000&pause=800&color=2563EB&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=280&lines=👋+Hi%2C+我是王博+(Wang+Bo);+;💻+Computer+Science+Student;+;🤖+AI+%26+Machine+Learning+Explorer;+;🌟+Building+Tomorrow's+Technology;+;🚀+Code+%7C+Create+%7C+Innovate" alt="Dynamic Title"/>
-
-<br/>
-
-<!-- Premium floating badges -->
+<!-- Neon Badges with Glow Effect -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Tongji_University-2563EB?style=for-the-badge&logoColor=white&labelColor=1e40af"/>
-  <img src="https://img.shields.io/badge/📍_Shanghai-059669?style=for-the-badge&logoColor=white&labelColor=047857"/>
-  <img src="https://img.shields.io/badge/💡_CS_Student-dc2626?style=for-the-badge&logoColor=white&labelColor=b91c1c"/>
+  <img src="https://img.shields.io/badge/🎯_AI_EXPLORER-00ff41?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🔥_TONGJI_UNIVERSITY-ff6b35?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/⚡_SHANGHAI-00d4ff?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🚀_FULL_STACK-9d00ff?style=for-the-badge&logoColor=white&labelColor=000000"/>
 </p>
+
+<!-- Cyberpunk Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 </div>
 
@@ -72,21 +75,45 @@ English: CET-4 669/710, IELTS 7.5
 
 ---
 
-## 💻 Tech Stack
+## 💻 TECH ARSENAL
 
-<div align="center" style="line-height: 2.5;">
+<div align="center">
 
-### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logoColor=black&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
+<!-- Tech Stack with Animated Icons -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="20"/>
 
-<br/>
-<br/>
+### 🤖 AI & MACHINE LEARNING
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark&perline=8"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_TRANSFORMERS-FFD21E?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🧠_OPENAI-00ff41?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/⚡_HUGGINGFACE-ff6b35?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🚀_LANGCHAIN-9d00ff?style=for-the-badge&logoColor=white&labelColor=000000"/>
+</p>
 
-### 🌐 Development Stack
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs&theme=dark"/>
-<img src="https://skillicons.dev/icons?i=java,cpp,git,docker&theme=dark"/>
+<!-- Cyber Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%" height="20"/>
+
+### 🌐 FULL-STACK DEVELOPMENT  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,express,fastapi,docker&theme=dark&perline=8"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,go,rust,mysql,mongodb,redis,kubernetes&theme=dark&perline=8"/>
+</p>
+
+<!-- Lightning Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%" height="20"/>
+
+### 🛠️ TOOLS & PLATFORMS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,gcp,figma,postman&theme=dark&perline=8"/>
+</p>
+
+<!-- Matrix Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="6"/>
 
 </div>
 
@@ -94,16 +121,28 @@ English: CET-4 669/710, IELTS 7.5
 
 ---
 
-## 📊 GitHub Stats
+## 📊 DIGITAL FOOTPRINT
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=boboyoudiancai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00FF88&border_radius=10"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboyoudiancai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10&langs_count=6"/>
+<!-- Holographic Stats Display -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="20"/>
 
-<br/><br/>
+<!-- Enhanced GitHub Stats -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=boboyoudiancai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=00FF88&icon_color=FF6B6B&border_radius=15&card_width=400"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboyoudiancai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=00FF88&border_radius=15&langs_count=8&card_width=400"/>
 
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=boboyoudiancai&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00FF88&fire=FF6B6B&currStreakLabel=00D4FF&border_radius=10"/>
+<!-- Neon Streak Stats -->
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=boboyoudiancai&theme=neon-dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=00FF88&currStreakLabel=00D4FF&border_radius=15"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boboyoudiancai&bg_color=0D1117&color=00D4FF&line=00FF88&point=FF6B6B&area=true&hide_border=true&custom_title=⚡%20CODING%20ACTIVITY%20MATRIX&radius=10" width="100%"/>
+
+<!-- Cyberpunk Metrics -->
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%" height="20"/>
+
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boboyoudiancai&theme=tokyonight" width="100%"/>
 
 </div>
 
@@ -189,7 +228,7 @@ English: CET-4 669/710, IELTS 7.5
 
 <br/><br/>
 
-**💫 "Fake it until make it."**
+**💫 "Code is poetry written in the language of logic"**
 
 <br/>
 
@@ -202,6 +241,13 @@ English: CET-4 669/710, IELTS 7.5
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
+
+<!-- Snake Game Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- 备用贪吃蛇动画 -->
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
