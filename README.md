@@ -1,17 +1,17 @@
 <!-- Clean Header -->
 <div align="center">
 
-<!-- Simple Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=2000&pause=1500&color=667EEA&center=true&vCenter=true&width=400&height=60&lines=Hi%2C+Wang+Bo+👋" alt="Greeting"/>
+<!-- Large Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=48&duration=2000&pause=1500&color=667EEA&center=true&vCenter=true&width=600&height=120&lines=Hi%2C+Wang+Bo+👋" alt="Greeting"/>
 
 <br/>
 
-<!-- Badge System -->
+<!-- Larger Badge System -->
 <p>
-  <img src="https://img.shields.io/badge/🎓Tongji%20University-6366F1?style=flat-square&labelColor=white&color=6366F1"/>
-  <img src="https://img.shields.io/badge/📍Shanghai-10B981?style=flat-square&labelColor=white&color=10B981"/>
-  <img src="https://img.shields.io/badge/🚀Full%20Stack-F59E0B?style=flat-square&labelColor=white&color=F59E0B"/>
-  <img src="https://img.shields.io/badge/🤖AI%20Explorer-EF4444?style=flat-square&labelColor=white&color=EF4444"/>
+  <img src="https://img.shields.io/badge/🎓%20Tongji%20University-6366F1?style=for-the-badge&labelColor=white&color=6366F1"/>
+  <img src="https://img.shields.io/badge/📍%20Shanghai-10B981?style=for-the-badge&labelColor=white&color=10B981"/>
+  <img src="https://img.shields.io/badge/🚀%20Full%20Stack-F59E0B?style=for-the-badge&labelColor=white&color=F59E0B"/>
+  <img src="https://img.shields.io/badge/🤖%20AI%20Explorer-EF4444?style=for-the-badge&labelColor=white&color=EF4444"/>
 </p>
 
 </div>
