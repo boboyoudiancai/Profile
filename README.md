@@ -34,12 +34,12 @@ Computer Science & Technology
 <br/>
 
 **🔬 Research Interests**
-- 🤖 **Multimodal AI Systems**
-- 🧠 **Graph Neural Networks** 
-- 🤝 **Multi-Agent Systems**
-- 💰 **Financial AI & Quantitative Trading**
-- ⚡ **Machine Learning Applications**
-- 💻 **Full-Stack Development**
+ 🤖 **Multimodal AI Systems**
+ 🧠 **Graph Neural Networks** 
+ 🤝 **Multi-Agent Systems**
+ 💰 **Financial AI & Quantitative Trading**
+ ⚡ **Machine Learning Applications**
+ 💻 **Full-Stack Development**
 
 </td>
 <td width="50%" align="center">
