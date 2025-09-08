@@ -1,22 +1,21 @@
-<!-- Professional Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,20&height=200&section=header&text=WANG%20BO&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full-Stack%20Developer%20•%20Research%20Enthusiast&descSize=18&descAlignY=58" width="100%"/>
-
 <div align="center">
 
-<!-- Clean Typography Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=2000&pause=1000&color=6366F1&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Welcome+to+my+digital+workspace;王博+(Wang+Bo)+•+AI+Engineer;Building+intelligent+systems;Machine+Learning+•+Fintech+•+Multi-Agent" alt="Professional Header"/>
+<!-- Hacker Terminal Style Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=45&duration=1000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=%3E+whoami;王博+%7C+WANG+BO;%3E+cat+%2Fdev%2Frole;AI+ENGINEER+%7C+FULL-STACK+DEV;%3E+ls+-la+%2Fskills%2F;MACHINE+LEARNING+%7C+FINTECH+%7C+MULTI-AGENT" alt="Terminal Header"/>
 
-<br/>
+<!-- Matrix Rain Effect -->
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="6"/>
 
-<!-- Modern Badge System -->
+<!-- Cyberpunk Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-6366F1?style=flat&logoColor=white&labelColor=4F46E5&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K"/>
-  <img src="https://img.shields.io/badge/Tongji%20University-10B981?style=flat&logoColor=white&labelColor=059669"/>
-  <img src="https://img.shields.io/badge/Shanghai-0EA5E9?style=flat&logoColor=white&labelColor=0284C7"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-8B5CF6?style=flat&logoColor=white&labelColor=7C3AED"/>
+  <img src="https://img.shields.io/badge/%3C%2F%3E_AI_HACKER-00FF41?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/⚡_TONGJI_UNIVERSITY-FF073A?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🌐_SHANGHAI-00D4FF?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🔥_FULL_STACK-FFD700?style=for-the-badge&logoColor=black&labelColor=000000"/>
 </p>
 
-<br/>
+<!-- Neon Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 </div>
 
@@ -73,52 +72,40 @@ English: CET-4 669/710, IELTS 7.5
 
 ---
 
-## 💼 Technology Stack
+## ⚡ TECH ARSENAL
 
 <div align="center">
 
-<!-- AI & Machine Learning Section -->
-<table width="100%">
-<tr>
-<td width="50%" align="center">
+<!-- Cyber Section Headers -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="20"/>
 
-### 🧠 AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=light&perline=4"/>
+### 🤖 AI & MACHINE LEARNING
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark&perline=8"/>
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Transformers-F59E0B?style=flat-square&logoColor=white&labelColor=D97706"/>
-  <img src="https://img.shields.io/badge/OpenAI-10B981?style=flat-square&logoColor=white&labelColor=059669"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-EF4444?style=flat-square&logoColor=white&labelColor=DC2626"/>
-</p>
-
-</td>
-<td width="50%" align="center">
-
-### 🌐 Full-Stack Development
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue&theme=light&perline=4"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,docker&theme=light&perline=4"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Next.js-6366F1?style=flat-square&logoColor=white&labelColor=4F46E5"/>
-  <img src="https://img.shields.io/badge/Spring-10B981?style=flat-square&logoColor=white&labelColor=059669"/>
-  <img src="https://img.shields.io/badge/Redis-DC2626?style=flat-square&logoColor=white&labelColor=B91C1C"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_TRANSFORMERS-FF6B35?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🧠_OPENAI-00FF41?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🤗_HUGGINGFACE-FFD700?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/⚡_LANGCHAIN-00D4FF?style=for-the-badge&logoColor=black&labelColor=000000"/>
 </p>
 
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%" height="20"/>
 
-<!-- Database & Infrastructure -->
-<div style="margin: 2rem 0;">
-<h3>🛠️ Infrastructure & Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis&theme=light&perline=8"/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes&theme=light&perline=8"/>
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux,figma&theme=light&perline=8"/>
+### 💻 FULL-STACK DEVELOPMENT
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,express,fastapi,docker&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,go,rust,mysql,mongodb,redis,kubernetes&theme=dark&perline=8"/>
 </p>
-</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%" height="20"/>
+
+### 🛠️ TOOLS & PLATFORMS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,gcp,figma,postman&theme=dark&perline=8"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="6"/>
 
 </div>
 
@@ -126,31 +113,31 @@ English: CET-4 669/710, IELTS 7.5
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 CODE MATRIX
 
 <div align="center">
 
-<!-- Clean Stats Layout -->
-<table>
-<tr>
-<td align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=boboyoudiancai&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=FAFAFA&title_color=374151&text_color=6B7280&icon_color=6366F1&border_radius=8"/>
-</td>
-<td align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboyoudiancai&layout=compact&theme=default&hide_border=true&bg_color=FAFAFA&title_color=374151&text_color=6B7280&border_radius=8&langs_count=6"/>
-</td>
-</tr>
-</table>
+<!-- Matrix Style Header -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="20"/>
+
+<!-- Cyberpunk Stats -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=boboyoudiancai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF073A&border_radius=10"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboyoudiancai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&border_radius=10&langs_count=8"/>
 
 <br/>
 
-<!-- Activity Streak -->
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=boboyoudiancai&theme=default&hide_border=true&background=FAFAFA&stroke=6366F1&ring=10B981&fire=EF4444&currStreakLabel=374151&border_radius=8"/>
+<!-- Neon Streak -->
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=boboyoudiancai&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=FF073A&fire=FFD700&currStreakLabel=00FF41&border_radius=10"/>
 
-<br/><br/>
+<br/>
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boboyoudiancai&bg_color=FAFAFA&color=6366F1&line=10B981&point=EF4444&area=true&hide_border=true&custom_title=Development%20Activity&radius=8" width="100%"/>
+<!-- Hacker Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boboyoudiancai&bg_color=0D1117&color=00FF41&line=FF073A&point=FFD700&area=true&hide_border=true&custom_title=⚡%20HACKER%20ACTIVITY%20MATRIX&radius=10" width="100%"/>
+
+<!-- Profile Summary with Cyberpunk Theme -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boboyoudiancai&theme=radical" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="6"/>
 
 </div>
 
@@ -220,25 +207,30 @@ English: CET-4 669/710, IELTS 7.5
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 NETWORK CONNECTION
 
 <div align="center">
 
-<p>
+<!-- Matrix Connection Header -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="20"/>
+
+<p align="center">
 <a href="mailto:2351563@tongji.edu.cn">
-  <img src="https://img.shields.io/badge/Email-6366F1?style=flat&logoColor=white&labelColor=4F46E5&logo=gmail"/>
+  <img src="https://img.shields.io/badge/📧_EMAIL-00FF41?style=for-the-badge&logoColor=black&labelColor=000000"/>
 </a>
 <a href="https://github.com/boboyoudiancai">
-  <img src="https://img.shields.io/badge/GitHub-374151?style=flat&logoColor=white&labelColor=1F2937&logo=github"/>
+  <img src="https://img.shields.io/badge/💻_GITHUB-FF073A?style=for-the-badge&logoColor=white&labelColor=000000"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/WeChat-10B981?style=flat&logoColor=white&labelColor=059669&logo=wechat"/>
+  <img src="https://img.shields.io/badge/💬_WECHAT-FFD700?style=for-the-badge&logoColor=black&labelColor=000000"/>
 </a>
 </p>
 
 <br/>
 
-<p style="color: #6B7280; font-style: italic;">"Building intelligent systems that make a difference"</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=40&lines=%3E+echo+%22Building+AI+systems+that+change+the+world%22;%3E+sudo+make+impact;%3E+./connect+--with+awesome-people" alt="Hacker Quote"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="6"/>
 
 </div>
 
@@ -246,26 +238,35 @@ English: CET-4 669/710, IELTS 7.5
 
 <div align="center">
 
-<!-- Clean Snake Animation -->
+<!-- Holographic Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- Matrix Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/boboyoudiancai/boboyoudiancai/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/><br/>
-
-<!-- Clean Footer Typography -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=14&duration=3000&pause=1500&color=6B7280&background=FFFFFF00&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+visiting+my+profile;Always+open+to+interesting+collaborations;Let's+build+something+amazing+together" alt="Footer Message"/>
+<!-- Fallback Snake -->
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 <br/>
 
-<!-- Minimal Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=boboyoudiancai&label=Profile%20Views&color=6366f1&style=flat"/>
+<!-- Hacker Footer Typography -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=1500&color=00FF41&background=000000&center=true&vCenter=true&width=900&height=50&lines=%3E+thanks_for_visiting.sh+executed+successfully;%3E+connection_established+--mode+collaborative;%3E+while+true%3A+build_awesome_projects();%3E+exit_status%3A+legendary_coder_detected" alt="Hacker Footer"/>
 
-<br/><br/>
+<br/>
 
-<!-- Professional Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,20&height=120&section=footer" width="100%"/>
+<!-- Cyberpunk Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=boboyoudiancai&label=HACKERS_DETECTED&color=00ff41&style=for-the-badge&labelColor=000000"/>
+
+<br/>
+
+<!-- Matrix Rain Footer -->
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100%" height="50"/>
+
+<!-- Neon Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,8,10,24&height=150&section=footer&text=HACK_THE_PLANET&fontSize=30&fontColor=00FF41&animation=twinkling&fontAlignY=75" width="100%"/>
 
 </div>
