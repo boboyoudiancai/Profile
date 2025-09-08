@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Large Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=48&duration=2000&pause=1500&color=667EEA&center=true&vCenter=true&width=600&height=120&lines=Hi%2C+Wang+Bo+👋" alt="Greeting"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=48&duration=2000&pause=1500&color=667EEA&center=true&vCenter=true&width=600&height=120&lines=Hi%2C+I'm+Wang+Bo+👋" alt="Greeting"/>
 
 <br/>
 
